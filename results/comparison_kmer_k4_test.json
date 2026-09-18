@@ -1,0 +1,105 @@
+{
+  "dataset": "data\\processed\\features_kmer_k4.csv",
+  "feature_sha256": "5dc82f731473149370946597bd44128209cde5150d73603d92766a05d9e5a3a8",
+  "representation": "kmer",
+  "k": 4,
+  "seed": 42,
+  "python_version": "3.14.0",
+  "sklearn_version": "1.9.1",
+  "label_order": [
+    "Normal",
+    "Carrier",
+    "Affected"
+  ],
+  "feature_count": 256,
+  "split_rows": {
+    "train": 630,
+    "validation": 135,
+    "test": 135
+  },
+  "validation_leaderboard": [
+    {
+      "model": "random_forest",
+      "validation_macro_f1": 0.7452999506438731,
+      "validation_accuracy": 0.7555555555555555
+    },
+    {
+      "model": "svm_rbf",
+      "validation_macro_f1": 0.729064930367155,
+      "validation_accuracy": 0.7407407407407407
+    },
+    {
+      "model": "extra_trees",
+      "validation_macro_f1": 0.7243664717348928,
+      "validation_accuracy": 0.7333333333333333
+    },
+    {
+      "model": "logistic_regression",
+      "validation_macro_f1": 0.4330139535908195,
+      "validation_accuracy": 0.4888888888888889
+    },
+    {
+      "model": "knn",
+      "validation_macro_f1": 0.24150867555436453,
+      "validation_accuracy": 0.37037037037037035
+    },
+    {
+      "model": "dummy",
+      "validation_macro_f1": 0.16666666666666666,
+      "validation_accuracy": 0.3333333333333333
+    }
+  ],
+  "selected_model": "random_forest",
+  "final_fit_rows": 765,
+  "test_report": {
+    "Normal": {
+      "precision": 0.7627118644067796,
+      "recall": 1.0,
+      "f1-score": 0.8653846153846154,
+      "support": 45.0
+    },
+    "Carrier": {
+      "precision": 0.5,
+      "recall": 0.5333333333333333,
+      "f1-score": 0.5161290322580645,
+      "support": 45.0
+    },
+    "Affected": {
+      "precision": 0.5714285714285714,
+      "recall": 0.35555555555555557,
+      "f1-score": 0.4383561643835616,
+      "support": 45.0
+    },
+    "accuracy": 0.6296296296296297,
+    "macro avg": {
+      "precision": 0.6113801452784503,
+      "recall": 0.6296296296296297,
+      "f1-score": 0.6066232706754139,
+      "support": 135.0
+    },
+    "weighted avg": {
+      "precision": 0.6113801452784504,
+      "recall": 0.6296296296296297,
+      "f1-score": 0.6066232706754139,
+      "support": 135.0
+    }
+  },
+  "test_confusion_matrix": [
+    [
+      45,
+      0,
+      0
+    ],
+    [
+      9,
+      24,
+      12
+    ],
+    [
+      5,
+      24,
+      16
+    ]
+  ],
+  "interpretation": "Variant-informed simulated genotype proxies; not clinical accuracy."
+}

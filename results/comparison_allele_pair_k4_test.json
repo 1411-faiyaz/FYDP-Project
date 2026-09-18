@@ -1,0 +1,105 @@
+{
+  "dataset": "data\\processed\\features_allele_pair_k4.csv",
+  "feature_sha256": "dbf9d8ed9c6b0e5f953502f99be532c6a6556b1a2dbe9dc910ce14bc06af3327",
+  "representation": "allele_pair",
+  "k": 4,
+  "seed": 42,
+  "python_version": "3.14.0",
+  "sklearn_version": "1.9.1",
+  "label_order": [
+    "Normal",
+    "Carrier",
+    "Affected"
+  ],
+  "feature_count": 512,
+  "split_rows": {
+    "train": 630,
+    "validation": 135,
+    "test": 135
+  },
+  "validation_leaderboard": [
+    {
+      "model": "extra_trees",
+      "validation_macro_f1": 0.8252897207528972,
+      "validation_accuracy": 0.8296296296296296
+    },
+    {
+      "model": "random_forest",
+      "validation_macro_f1": 0.7860591175530316,
+      "validation_accuracy": 0.7925925925925926
+    },
+    {
+      "model": "svm_rbf",
+      "validation_macro_f1": 0.7724557401976756,
+      "validation_accuracy": 0.7777777777777778
+    },
+    {
+      "model": "logistic_regression",
+      "validation_macro_f1": 0.5957491582491583,
+      "validation_accuracy": 0.6296296296296297
+    },
+    {
+      "model": "knn",
+      "validation_macro_f1": 0.18272372300581718,
+      "validation_accuracy": 0.34074074074074073
+    },
+    {
+      "model": "dummy",
+      "validation_macro_f1": 0.16666666666666666,
+      "validation_accuracy": 0.3333333333333333
+    }
+  ],
+  "selected_model": "extra_trees",
+  "final_fit_rows": 765,
+  "test_report": {
+    "Normal": {
+      "precision": 0.7719298245614035,
+      "recall": 0.9777777777777777,
+      "f1-score": 0.8627450980392157,
+      "support": 45.0
+    },
+    "Carrier": {
+      "precision": 0.6,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.631578947368421,
+      "support": 45.0
+    },
+    "Affected": {
+      "precision": 0.75,
+      "recall": 0.4666666666666667,
+      "f1-score": 0.5753424657534246,
+      "support": 45.0
+    },
+    "accuracy": 0.7037037037037037,
+    "macro avg": {
+      "precision": 0.7073099415204678,
+      "recall": 0.7037037037037037,
+      "f1-score": 0.6898888370536871,
+      "support": 135.0
+    },
+    "weighted avg": {
+      "precision": 0.7073099415204678,
+      "recall": 0.7037037037037037,
+      "f1-score": 0.6898888370536872,
+      "support": 135.0
+    }
+  },
+  "test_confusion_matrix": [
+    [
+      44,
+      1,
+      0
+    ],
+    [
+      8,
+      30,
+      7
+    ],
+    [
+      5,
+      19,
+      21
+    ]
+  ],
+  "interpretation": "Variant-informed simulated genotype proxies; not clinical accuracy."
+}

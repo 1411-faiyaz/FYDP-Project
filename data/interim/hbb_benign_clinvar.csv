@@ -1,0 +1,837 @@
+variation_id,name,clinical_significance,review_status,phenotype,chromosome,position,reference,alternate,variant_type,rs_id
+15175,NM_000518.4(HBB):c.20A>C (p.Glu7Ala),Likely benign,"criteria provided, single submitter",HEMOGLOBIN G (MAKASSAR)|not specified,11,5227002,T,G,single nucleotide variant,334
+15176,NM_000518.4(HBB):c.23A>G (p.Glu8Gly),Likely benign,"criteria provided, multiple submitters, no conflicts",HEMOGLOBIN G (SAN JOSE)|not provided|not specified,11,5226999,T,C,single nucleotide variant,34387455
+15188,NM_000518.5(HBB):c.169G>C (p.Gly57Arg),Likely benign,"criteria provided, single submitter",HEMOGLOBIN HAMADAN|not provided,11,5226723,C,G,single nucleotide variant,33935983
+15198,NM_000518.5(HBB):c.420T>A (p.Asn140Lys),Likely benign,"criteria provided, single submitter",HEMOGLOBIN HINSDALE|not provided,11,5225622,A,T,single nucleotide variant,34240441
+15203,NM_000518.4(HBB):c.130G>C (p.Glu44Gln),Benign,no assertion criteria provided,not specified,11,5226762,C,G,single nucleotide variant,33922842
+15233,NM_000518.5(HBB):c.397A>C (p.Lys133Gln),Likely benign,"criteria provided, multiple submitters, no conflicts",HEMOGLOBIN K (WOOLWICH)|not specified|not provided,11,5225645,T,G,single nucleotide variant,33953406
+15235,NM_000518.4(HBB):c.308A>C (p.Asn103Thr),Benign,no assertion criteria provided,not specified,11,5226584,T,G,single nucleotide variant,33948057
+15296,NM_000518.5(HBB):c.9T>A (p.His3Gln),Likely benign,"criteria provided, single submitter",HEMOGLOBIN OKAYAMA|not provided,11,5227013,A,T,single nucleotide variant,713040
+15316,NM_000518.4(HBB):c.29C>G (p.Ser10Cys),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",HEMOGLOBIN PORTO ALEGRE|not specified|not provided,11,5226993,G,C,single nucleotide variant,33918131
+15329,NM_000518.5(HBB):c.363A>C (p.Lys121Asn),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225679,T,G,single nucleotide variant,34726542
+15351,NM_000518.5(HBB):c.314G>C (p.Arg105Thr),Likely benign,"criteria provided, single submitter",HEMOGLOBIN SHERWOOD FOREST|not specified,11,5226578,C,G,single nucleotide variant,33911434
+15371,NM_000518.4(HBB):c.238G>T (p.Asp80Tyr),Likely benign,"criteria provided, single submitter",HEMOGLOBIN TAMPA|not provided,11,5226654,C,A,single nucleotide variant,33990858
+15399,NM_000518.4(HBB):c.64G>T (p.Asp22Tyr),Likely benign,"criteria provided, single submitter",HEMOGLOBIN YUSA|not provided,11,5226958,C,A,single nucleotide variant,33950093
+15453,NM_000518.5(HBB):c.316-8T>G,Likely benign,"criteria provided, single submitter",BETA-PLUS-THALASSEMIA|beta Thalassemia|not provided,11,5225734,A,C,single nucleotide variant,34793594
+15489,NM_000518.5(HBB):c.262A>C (p.Thr88Pro),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",HEMOGLOBIN VALLETTA|beta Thalassemia|not specified|9 conditions,11,5226630,T,G,single nucleotide variant,35553496
+15565,NM_000518.4(HBB):c.430C>T (p.His144Tyr),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225612,G,A,single nucleotide variant,33929415
+15582,NM_000518.5(HBB):c.349C>T (p.His117Tyr),Likely benign,"criteria provided, single submitter",HEMOGLOBIN TSUKUMI|not provided,11,5225693,G,A,single nucleotide variant,34049764
+36300,NM_000518.5(HBB):c.171C>T (p.Gly57=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226721,G,A,single nucleotide variant,193922551
+36305,NM_000518.5(HBB):c.246C>G (p.Leu82=),Likely benign,"criteria provided, multiple submitters, no conflicts",beta Thalassemia|not provided|Inborn genetic diseases,11,5226646,G,C,single nucleotide variant,145669504
+36314,NM_000518.5(HBB):c.316-150C>G,Likely benign,"criteria provided, single submitter",beta Thalassemia,11,5225876,G,C,single nucleotide variant,193922556
+36315,NM_000518.5(HBB):c.316-184T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225910,A,G,single nucleotide variant,193922557
+36316,NM_000518.5(HBB):c.316-185C>T,Benign,reviewed by expert panel,beta Thalassemia|not specified|not provided|Beta-thalassemia HBB/LCRB,11,5225911,G,A,single nucleotide variant,1609812
+36318,NM_000518.5(HBB):c.316-37G>T,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225763,C,A,single nucleotide variant,193922559
+36320,NM_000518.5(HBB):c.316-70C>G,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",beta Thalassemia|not provided|not specified,11,5225796,G,C,single nucleotide variant,193922560
+36329,NM_000518.5(HBB):c.432C>T (p.His144=),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|beta Thalassemia|Inborn genetic diseases,11,5225610,G,A,single nucleotide variant,36020563
+193106,NM_000518.5(HBB):c.9T>C (p.His3=),Benign,"criteria provided, multiple submitters, no conflicts",not specified|Hb SS disease|Fetal hemoglobin quantitative trait locus 1|beta Thalassemia|Hemoglobin E|not provided|9 conditions|Inborn genetic diseases,11,5227013,A,G,single nucleotide variant,713040
+256346,NM_000518.5(HBB):c.316-146T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225872,A,G,single nucleotide variant,35328027
+256347,NM_000518.5(HBB):c.316-238C>T,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|beta Thalassemia|not provided,11,5225964,G,A,single nucleotide variant,558554234
+256345,NM_000518.5(HBB):c.315+16G>C,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|beta Thalassemia|not provided,11,5226561,C,G,single nucleotide variant,10768683
+256344,NM_000518.5(HBB):c.288G>A (p.Lys96=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226604,C,T,single nucleotide variant,36038739
+256348,NM_000518.5(HBB):c.93-15T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226814,A,G,single nucleotide variant,35456885
+439158,NM_000518.5(HBB):c.378A>T (p.Pro126=),Likely benign,"criteria provided, single submitter",not specified,11,5225664,T,A,single nucleotide variant,1554917555
+439141,NM_000518.5(HBB):c.207C>T (p.Leu69=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|Inborn genetic diseases|HBB-related disorder,11,5226685,G,A,single nucleotide variant,112287010
+439139,NM_000518.5(HBB):c.180G>A (p.Lys60=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|beta Thalassemia|Inborn genetic diseases,11,5226712,C,T,single nucleotide variant,34621955
+439138,NM_000518.5(HBB):c.174C>T (p.Asn58=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226718,G,A,single nucleotide variant,35278874
+440467,NM_000518.5(HBB):c.45G>A (p.Leu15=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|Inborn genetic diseases,11,5226977,C,T,single nucleotide variant,762782573
+439156,NM_000518.5(HBB):c.33C>T (p.Ala11=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|Inborn genetic diseases,11,5226989,G,A,single nucleotide variant,35799536
+439774,NM_000518.5(HBB):c.315+81C>T,Benign,reviewed by expert panel,beta Thalassemia|not provided|not specified|Beta-thalassemia HBB/LCRB,11,5226496,G,A,single nucleotide variant,7946748
+439775,NM_000518.5(HBB):c.315+74T>G,Benign,"criteria provided, multiple submitters, no conflicts",not provided|beta Thalassemia,11,5226503,A,C,single nucleotide variant,7480526
+439776,NM_000518.5(HBB):c.315+26T>G,Benign,"criteria provided, multiple submitters, no conflicts",not provided|beta Thalassemia,11,5226551,A,C,single nucleotide variant,368604295
+439781,NM_000518.5(HBB):c.84C>T (p.Ala28=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226938,G,A,single nucleotide variant,748296717
+496009,NM_000518.5(HBB):c.93-24A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226823,T,C,single nucleotide variant,773687221
+495995,NM_000518.5(HBB):c.316-45G>C,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225771,C,G,single nucleotide variant,140033163
+495987,NM_000518.5(HBB):c.316-109C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225835,G,A,single nucleotide variant,1554917650
+495978,NM_000518.5(HBB):c.144T>C (p.Asp48=),Likely benign,"criteria provided, single submitter",not specified,11,5226748,A,G,single nucleotide variant,754454495
+495999,NM_000518.5(HBB):c.39T>C (p.Thr13=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226983,A,G,single nucleotide variant,1554918207
+495988,NM_000518.5(HBB):c.316-114C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225840,G,A,single nucleotide variant,1003790835
+495984,NM_000518.5(HBB):c.270T>C (p.Ser90=),Likely benign,"criteria provided, single submitter",not specified,11,5226622,A,G,single nucleotide variant,1554917814
+495976,NM_000518.5(HBB):c.141G>A (p.Gly47=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226751,C,T,single nucleotide variant,1554917961
+495994,NM_000518.5(HBB):c.6G>A (p.Val2=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5227016,C,T,single nucleotide variant,1349384278
+495997,NM_000518.5(HBB):c.327C>T (p.Asn109=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|beta Thalassemia|not specified,11,5225715,G,A,single nucleotide variant,34933751
+495990,NM_000518.5(HBB):c.316-130T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225856,A,G,single nucleotide variant,956857115
+495991,NM_000518.5(HBB):c.316-138G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225864,C,T,single nucleotide variant,1444028845
+495974,NM_000518.5(HBB):c.129T>C (p.Phe43=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226763,A,G,single nucleotide variant,1554917971
+496008,NM_000518.5(HBB):c.93-6C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|beta Thalassemia|not specified,11,5226805,G,A,single nucleotide variant,1554918048
+633253,NM_000518.5(HBB):c.316-27T>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225753,A,C,single nucleotide variant,1280140490
+632850,NM_000518.5(HBB):c.316-28G>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225754,C,G,single nucleotide variant,771736852
+633255,NM_000518.5(HBB):c.316-96G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225822,C,T,single nucleotide variant,193922561
+633261,NM_000518.5(HBB):c.316-102C>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225828,G,T,single nucleotide variant,1468940510
+632849,NM_000518.5(HBB):c.316-114C>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225840,G,T,single nucleotide variant,1003790835
+632848,NM_000518.5(HBB):c.316-145G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225871,C,T,single nucleotide variant,1005042281
+695343,NM_000518.5(HBB):c.316-373C>A,Benign,reviewed by expert panel,not provided|beta Thalassemia|Beta-thalassemia HBB/LCRB,11,5226099,G,T,single nucleotide variant,78815705
+695384,NM_000518.5(HBB):c.315+380T>C,Benign,"criteria provided, single submitter",not provided,11,5226197,A,G,single nucleotide variant,190369729
+695498,NM_000518.5(HBB):c.315+180T>C,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226397,A,G,single nucleotide variant,529931134
+702712,NM_000518.5(HBB):c.315+408T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226169,A,G,single nucleotide variant,1323342312
+707768,NM_000518.5(HBB):c.315+220C>T,Benign,"criteria provided, single submitter",not provided,11,5226357,G,A,single nucleotide variant,113152027
+703455,NM_000518.5(HBB):c.315+171A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226406,T,C,single nucleotide variant,996301151
+706923,NM_000518.5(HBB):c.315+109C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226468,G,A,single nucleotide variant,543925348
+748718,NM_000518.5(HBB):c.90C>A (p.Gly30=),Likely benign,"criteria provided, single submitter",not provided,11,5226932,G,T,single nucleotide variant,35578002
+762836,NM_000518.5(HBB):c.402G>A (p.Val134=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|Inborn genetic diseases|9 conditions,11,5225640,C,T,single nucleotide variant,113082294
+751959,NM_000518.5(HBB):c.315+425T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226152,A,G,single nucleotide variant,922176223
+765568,NM_000518.5(HBB):c.315+335C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226242,G,C,single nucleotide variant,1589891972
+766099,NM_000518.5(HBB):c.316-42C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225768,G,A,single nucleotide variant,761649200
+765167,NM_000518.5(HBB):c.315+334A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226243,T,G,single nucleotide variant,1055395965
+763410,NM_000518.5(HBB):c.316-292del,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided,11,5226017,GA,G,Deletion,1170203019
+764715,NM_000518.5(HBB):c.316-295C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226021,G,A,single nucleotide variant,569636767
+762977,NM_000518.5(HBB):c.315+377C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226200,G,A,single nucleotide variant,182729393
+754485,NM_000518.5(HBB):c.315+337A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226240,T,C,single nucleotide variant,561258571
+765761,NM_000518.5(HBB):c.315+204_315+207del,Likely benign,"criteria provided, single submitter",not provided,11,5226369,AAAAG,A,Microsatellite,375849787
+766084,NM_000518.5(HBB):c.315+198del,Likely benign,"criteria provided, single submitter",not provided,11,5226378,CA,C,Deletion,1589892087
+766521,NM_000518.5(HBB):c.315+175A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226402,T,A,single nucleotide variant,973955533
+766523,NM_000518.5(HBB):c.315+139G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226438,C,T,single nucleotide variant,1589892116
+763094,NM_000518.5(HBB):c.315+15C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226562,G,A,single nucleotide variant,756567448
+751477,NM_000518.5(HBB):c.92+47T>G,Benign,"criteria provided, single submitter",not provided,11,5226883,A,C,single nucleotide variant,369341845
+754508,NM_000518.5(HBB):c.316-26T>G,Likely benign,"criteria provided, single submitter",not provided,11,5225752,A,C,single nucleotide variant,1589891645
+755422,NM_000518.5(HBB):c.315+293G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226284,C,T,single nucleotide variant,1320832744
+750903,NM_000518.5(HBB):c.315+260A>G,Likely benign,reviewed by expert panel,not provided|Beta-thalassemia HBB/LCRB,11,5226317,T,C,single nucleotide variant,111415391
+763383,NM_000518.5(HBB):c.315+203T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226374,A,G,single nucleotide variant,1042051118
+751288,NM_000518.5(HBB):c.315+189T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226388,A,G,single nucleotide variant,1589892094
+764666,NM_000518.5(HBB):c.315+70G>C,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226507,C,G,single nucleotide variant,373152208
+753822,NM_000518.5(HBB):c.92+36C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226894,G,T,single nucleotide variant,776904725
+751267,NM_000518.5(HBB):c.316-188T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225914,A,G,single nucleotide variant,1589891780
+755510,NM_000518.5(HBB):c.316-323T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226049,A,G,single nucleotide variant,1589891857
+766475,NM_000518.5(HBB):c.316-368T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226094,A,C,single nucleotide variant,1589891884
+763829,NM_000518.5(HBB):c.315+308del,Likely benign,"criteria provided, single submitter",not provided,11,5226268,GT,G,Deletion,1020110937
+763631,NM_000518.5(HBB):c.315+221G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226356,C,T,single nucleotide variant,753003330
+753521,NM_000518.5(HBB):c.315+204_315+208del,Likely benign,"criteria provided, single submitter",not provided,11,5226368,AAAAAG,A,Deletion,892829819
+755397,NM_000518.5(HBB):c.315+34C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226543,G,A,single nucleotide variant,759795721
+774507,NM_000518.5(HBB):c.316-381G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226107,C,T,single nucleotide variant,1045462228
+799058,NM_000518.5(HBB):c.165T>C (p.Val55=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|Inborn genetic diseases|not specified,11,5226727,A,G,single nucleotide variant,760975738
+794722,NM_000518.5(HBB):c.12G>C (p.Leu4=),Likely benign,"criteria provided, single submitter",not provided,11,5227010,C,G,single nucleotide variant,1589893645
+796911,NM_000518.5(HBB):c.316-120C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225846,G,C,single nucleotide variant,1589891720
+792476,NM_000518.5(HBB):c.316-147A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225873,T,G,single nucleotide variant,1415697390
+793871,NM_000518.5(HBB):c.316-246C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225972,G,A,single nucleotide variant,1589891810
+794095,NM_000518.5(HBB):c.315+332T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226245,A,C,single nucleotide variant,531567967
+797671,NM_000518.5(HBB):c.315+272A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226305,T,C,single nucleotide variant,1589892008
+793209,NM_000518.5(HBB):c.315+207T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226370,A,T,single nucleotide variant,1589892074
+797626,NM_000518.5(HBB):c.315+156T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226421,A,G,single nucleotide variant,981149711
+800025,NM_000518.5(HBB):c.315+125T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226452,A,G,single nucleotide variant,1053188095
+797051,NM_000518.5(HBB):c.316-95C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225821,G,A,single nucleotide variant,1589891699
+797803,NM_000518.5(HBB):c.316-177A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225903,T,G,single nucleotide variant,964085975
+796407,NM_000518.5(HBB):c.316-341T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226067,A,G,single nucleotide variant,1200755137
+797670,NM_000518.5(HBB):c.315+142C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226435,G,A,single nucleotide variant,934286084
+793174,NM_000518.5(HBB):c.316-71G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225797,C,A,single nucleotide variant,1589891689
+795403,NM_000518.5(HBB):c.315+80A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226497,T,A,single nucleotide variant,1589892172
+798809,NM_000518.5(HBB):c.315+421T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226156,A,G,single nucleotide variant,1250042245
+798571,NM_000518.5(HBB):c.315+362G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226215,C,T,single nucleotide variant,1589891959
+796185,NM_000518.5(HBB):c.315+118G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226459,C,G,single nucleotide variant,1302097141
+795005,NM_000518.5(HBB):c.93-18C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226817,G,A,single nucleotide variant,777028217
+796462,NM_000518.5(HBB):c.93-40C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified|beta Thalassemia,11,5226839,G,A,single nucleotide variant,556727592
+793229,NM_000518.5(HBB):c.316-150C>A,Likely benign,"criteria provided, single submitter",not provided,11,5225876,G,T,single nucleotide variant,193922556
+793230,NM_000518.5(HBB):c.316-152A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225878,T,A,single nucleotide variant,1589891751
+798416,NM_000518.5(HBB):c.316-217T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225943,A,G,single nucleotide variant,1589891794
+795281,NM_000518.5(HBB):c.316-272G>C,Likely benign,"criteria provided, single submitter",not provided|beta Thalassemia,11,5225998,C,G,single nucleotide variant,773343845
+796030,NM_000518.5(HBB):c.315+205T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226372,A,C,single nucleotide variant,1589892081
+795422,NM_000518.5(HBB):c.315+132G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226445,C,G,single nucleotide variant,1329253876
+801188,NM_000518.5(HBB):c.316-138G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225864,C,A,single nucleotide variant,1444028845
+811029,NM_000518.5(HBB):c.316-28G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225754,C,T,single nucleotide variant,771736852
+830005,NM_000518.5(HBB):c.316-369G>A,Likely benign,"criteria provided, single submitter",beta Thalassemia|not provided,11,5226095,C,T,single nucleotide variant,1589891886
+869257,NM_000518.5(HBB):c.-35A>G,Benign,no assertion criteria provided,beta Thalassemia,11,5227056,T,C,single nucleotide variant,1847590703
+869237,NM_000518.5(HBB):c.316-208C>G,Likely benign,"criteria provided, single submitter",beta Thalassemia|not provided,11,5225934,G,C,single nucleotide variant,1847537539
+869238,NM_000518.5(HBB):c.316-272G>T,Likely benign,"criteria provided, single submitter",beta Thalassemia|not provided,11,5225998,C,A,single nucleotide variant,773343845
+869354,NM_000518.5(HBB):c.315+255T>C,Likely benign,"criteria provided, single submitter",beta Thalassemia|not provided,11,5226322,A,G,single nucleotide variant,1847544780
+917608,NM_000518.5(HBB):c.351T>C (p.His117=),Likely benign,"criteria provided, single submitter",not specified,11,5225691,A,G,single nucleotide variant,35209776
+928759,NM_000518.5(HBB):c.117C>T (p.Thr39=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226775,G,A,single nucleotide variant,1847565822
+928760,NM_000518.5(HBB):c.87G>C (p.Leu29=),Likely benign,"criteria provided, single submitter",not specified,11,5226935,C,G,single nucleotide variant,1191121382
+929231,NM_000518.5(HBB):c.316-81T>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225807,A,T,single nucleotide variant,911937119
+929230,NM_000518.5(HBB):c.315+9A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226568,T,C,single nucleotide variant,1277597344
+933190,NM_000518.5(HBB):c.21G>A (p.Glu7=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5227001,C,T,single nucleotide variant,1589893600
+981076,NM_000518.5(HBB):c.316-99del,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225824,GA,G,Deletion,1257175417
+981074,NM_000518.5(HBB):c.316-198G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|HBB-related disorder,11,5225924,C,T,single nucleotide variant,547258651
+991115,NM_000518.5(HBB):c.387T>A (p.Ala129=),Likely benign,"criteria provided, single submitter",beta Thalassemia|not provided,11,5225655,A,T,single nucleotide variant,1248780802
+994010,NM_000518.5(HBB):c.316-90A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225816,T,C,single nucleotide variant,63750433
+995800,NM_000518.5(HBB):c.373C>A (p.Pro125Thr),Benign,no assertion criteria provided,beta Thalassemia,11,5225669,G,T,single nucleotide variant,35461710
+1089508,NM_000518.5(HBB):c.316-31C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|beta Thalassemia,11,5225757,G,A,single nucleotide variant,578102677
+1091467,NM_000518.5(HBB):c.316-42del,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225767,AG,A,Deletion,746631999
+1089678,NM_000518.5(HBB):c.316-104A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225830,T,A,single nucleotide variant,2133586581
+1095878,NM_000518.5(HBB):c.316-129T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225855,A,G,single nucleotide variant,2133586627
+1080748,NM_000518.5(HBB):c.316-145G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225871,C,G,single nucleotide variant,1005042281
+1087637,NM_000518.5(HBB):c.316-159A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225885,T,G,single nucleotide variant,531604051
+1083998,NM_000518.5(HBB):c.316-219_316-218del,Likely benign,"criteria provided, single submitter",not provided,11,5225943,ACT,A,Deletion,2133586757
+1091288,NM_000518.5(HBB):c.316-244T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225970,A,T,single nucleotide variant,1847537980
+1095434,NM_000518.5(HBB):c.316-261A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225987,T,A,single nucleotide variant,2133586811
+1095205,NM_000518.5(HBB):c.316-265A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225991,T,C,single nucleotide variant,2133586814
+1090894,NM_000518.5(HBB):c.316-315del,Likely benign,"criteria provided, single submitter",not provided,11,5226040,CA,C,Deletion,1337114930
+1092862,NM_000518.5(HBB):c.316-337T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226063,A,C,single nucleotide variant,2133586900
+1089575,NM_000518.5(HBB):c.316-356T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226082,A,G,single nucleotide variant,1847540166
+1077506,NM_000518.5(HBB):c.316-361G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226087,C,A,single nucleotide variant,2133586926
+1090479,NM_000518.5(HBB):c.316-370G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226096,C,G,single nucleotide variant,1304036788
+1094558,NM_000518.5(HBB):c.316-389C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226115,G,A,single nucleotide variant,2133586972
+1095187,NM_000518.5(HBB):c.316-400T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226126,A,T,single nucleotide variant,1847541358
+1077226,NM_000518.5(HBB):c.316-405T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226131,A,G,single nucleotide variant,576852971
+1084273,NM_000518.5(HBB):c.316-405T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226131,A,T,single nucleotide variant,576852971
+1081408,NM_000518.5(HBB):c.315+395T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226182,A,G,single nucleotide variant,1334704243
+1094586,NM_000518.5(HBB):c.315+387T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226190,A,G,single nucleotide variant,2133587118
+1088500,NM_000518.5(HBB):c.315+349T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226228,A,G,single nucleotide variant,112400237
+1090534,NM_000518.5(HBB):c.315+331A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226246,T,G,single nucleotide variant,1589891981
+1096696,NM_000518.5(HBB):c.315+310T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226267,A,G,single nucleotide variant,1246447924
+1097250,NM_000518.5(HBB):c.315+306_315+308del,Likely benign,"criteria provided, single submitter",not provided,11,5226268,GTTT,G,Deletion,1020110937
+1081010,NM_000518.5(HBB):c.315+306A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226271,T,A,single nucleotide variant,955334689
+1084859,NM_000518.5(HBB):c.315+292A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226285,T,G,single nucleotide variant,1847544059
+1079811,NM_000518.5(HBB):c.315+283G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226294,C,G,single nucleotide variant,2133587261
+1084243,NM_000518.5(HBB):c.315+277C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226300,G,T,single nucleotide variant,999594627
+1084750,NM_000518.5(HBB):c.315+269_315+270del,Likely benign,"criteria provided, single submitter",not provided,11,5226306,TCC,T,Deletion,1019015622
+1094628,NM_000518.5(HBB):c.315+258G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226319,C,T,single nucleotide variant,1029410290
+1084304,NM_000518.5(HBB):c.315+246C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226331,G,T,single nucleotide variant,1564874686
+1088912,NM_000518.5(HBB):c.315+234T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226343,A,T,single nucleotide variant,2133587321
+1080158,NM_000518.5(HBB):c.315+213T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226364,A,T,single nucleotide variant,1055464916
+1097054,NM_000518.5(HBB):c.315+213del,Likely benign,"criteria provided, single submitter",not provided,11,5226363,GA,G,Deletion,879578966
+1089483,NM_000518.5(HBB):c.315+211T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226366,A,G,single nucleotide variant,2133587370
+1094229,NM_000518.5(HBB):c.315+184T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226393,A,G,single nucleotide variant,2133587423
+1094269,NM_000518.5(HBB):c.315+147_315+152del,Likely benign,"criteria provided, single submitter",not provided,11,5226424,GAAACTA,G,Deletion,1371816847
+1082749,NM_000518.5(HBB):c.315+143G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226434,C,A,single nucleotide variant,191037579
+1077721,NM_000518.5(HBB):c.315+139G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226438,C,G,single nucleotide variant,1589892116
+1092961,NM_000518.5(HBB):c.315+127T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226450,A,G,single nucleotide variant,2133587493
+1089337,NM_000518.5(HBB):c.315+116T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226461,A,G,single nucleotide variant,892744704
+1097379,NM_000518.5(HBB):c.315+85G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226492,C,T,single nucleotide variant,1029676980
+1080073,NM_000518.5(HBB):c.315+73A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226504,T,A,single nucleotide variant,1847548056
+1096888,NM_000518.5(HBB):c.315+48G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226529,C,A,single nucleotide variant,751644989
+1095859,NM_000518.5(HBB):c.252C>A (p.Gly84=),Likely benign,"criteria provided, single submitter",not provided,11,5226640,G,T,single nucleotide variant,2133588069
+1090577,NM_000518.5(HBB):c.96G>T (p.Leu32=),Likely benign,"criteria provided, single submitter",not provided,11,5226796,C,A,single nucleotide variant,778841729
+1077470,NM_000518.5(HBB):c.93-17T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226816,A,G,single nucleotide variant,1176965004
+1096096,NM_000518.5(HBB):c.92+28T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226902,A,G,single nucleotide variant,565131043
+1093303,NM_000518.5(HBB):c.92+15T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226915,A,G,single nucleotide variant,2133589130
+1104204,NM_000518.5(HBB):c.435G>A (p.Lys145=),Likely benign,"criteria provided, single submitter",not provided,11,5225607,C,T,single nucleotide variant,35020585
+1117784,NM_000518.5(HBB):c.316-10C>A,Likely benign,"criteria provided, single submitter",not provided,11,5225736,G,T,single nucleotide variant,751809624
+1101246,NM_000518.5(HBB):c.316-15A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225741,T,C,single nucleotide variant,2133586425
+1099874,NM_000518.5(HBB):c.316-67G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225793,C,G,single nucleotide variant,1847534048
+1115280,NM_000518.5(HBB):c.316-99T>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225825,A,C,single nucleotide variant,1232651664
+1112986,NM_000518.5(HBB):c.316-229A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225955,T,C,single nucleotide variant,2133586776
+1116346,NM_000518.5(HBB):c.316-362T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226088,A,T,single nucleotide variant,2133586928
+1105735,NM_000518.5(HBB):c.316-383T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226109,A,G,single nucleotide variant,2133586966
+1117654,NM_000518.5(HBB):c.316-386A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226112,T,C,single nucleotide variant,1847540893
+1100205,NM_000518.5(HBB):c.316-387C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226113,G,A,single nucleotide variant,1847540939
+1118139,NM_000518.5(HBB):c.316-397T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226123,A,T,single nucleotide variant,1346655515
+1104842,NM_000518.5(HBB):c.316-418G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226144,C,T,single nucleotide variant,2133587017
+1119111,NM_000518.5(HBB):c.315+396A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226181,T,C,single nucleotide variant,892640661
+1101748,NM_000518.5(HBB):c.315+391_315+395del,Likely benign,"criteria provided, single submitter",not provided,11,5226181,TAAAAG,T,Deletion,908075557
+1111753,NM_000518.5(HBB):c.315+394T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226183,A,C,single nucleotide variant,2133587089
+1112903,NM_000518.5(HBB):c.315+391C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226186,G,T,single nucleotide variant,1847542342
+1107574,NM_000518.5(HBB):c.315+354G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226223,C,T,single nucleotide variant,1001129219
+1115039,NM_000518.5(HBB):c.315+335C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226242,G,A,single nucleotide variant,1589891972
+1108644,NM_000518.5(HBB):c.315+317A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226260,T,C,single nucleotide variant,1011949195
+1110772,NM_000518.5(HBB):c.315+317A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226260,T,G,single nucleotide variant,1011949195
+1104520,NM_000518.5(HBB):c.315+316_315+317del,Likely benign,"criteria provided, single submitter",not provided,11,5226259,CTG,C,Microsatellite,766272149
+1110299,NM_000518.5(HBB):c.315+300A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226277,T,C,single nucleotide variant,1178558353
+1110042,NM_000518.5(HBB):c.315+285T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226292,A,G,single nucleotide variant,1847544179
+1110755,NM_000518.5(HBB):c.315+265A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226312,T,C,single nucleotide variant,2133587278
+1115568,NM_000518.5(HBB):c.315+254T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226323,A,G,single nucleotide variant,1418885009
+1119536,NM_000518.5(HBB):c.315+235T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226342,A,C,single nucleotide variant,1847544982
+1101564,NM_000518.5(HBB):c.315+232T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226345,A,G,single nucleotide variant,1847545038
+1099709,NM_000518.5(HBB):c.315+212T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226365,A,C,single nucleotide variant,2133587368
+1119125,NM_000518.5(HBB):c.315+183_315+187del,Likely benign,"criteria provided, single submitter",not provided|Beta-thalassemia HBB/LCRB,11,5226389,CAAAAG,C,Deletion,1200964989
+1102136,NM_000518.5(HBB):c.315+169A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226408,T,C,single nucleotide variant,915743646
+1101596,NM_000518.5(HBB):c.315+149G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226428,C,T,single nucleotide variant,2133587464
+1114903,NM_000518.5(HBB):c.315+143G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226434,C,G,single nucleotide variant,191037579
+1113861,NM_000518.5(HBB):c.315+140A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226437,T,C,single nucleotide variant,1847546876
+1111047,NM_000518.5(HBB):c.315+100G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226477,C,T,single nucleotide variant,899975457
+1118813,NM_000518.5(HBB):c.315+90G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226487,C,T,single nucleotide variant,1847547444
+1111267,NM_000518.5(HBB):c.315+81C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226496,G,T,single nucleotide variant,7946748
+1111743,NM_000518.5(HBB):c.315+77G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226500,C,T,single nucleotide variant,2133587565
+1114525,NM_000518.5(HBB):c.315+69G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226508,C,T,single nucleotide variant,111559058
+1099906,NM_000518.5(HBB):c.315+58T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226519,A,G,single nucleotide variant,974387932
+1100138,NM_000518.5(HBB):c.315+55T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226522,A,T,single nucleotide variant,2133587596
+1110073,NM_000518.5(HBB):c.315+28C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226549,G,C,single nucleotide variant,2133587641
+1118308,NM_000518.5(HBB):c.279C>T (p.His93=),Likely benign,"criteria provided, single submitter",not provided,11,5226613,G,A,single nucleotide variant,34083951
+1111710,NM_000518.5(HBB):c.225C>G (p.Gly75=),Likely benign,"criteria provided, single submitter",not provided,11,5226667,G,C,single nucleotide variant,1184506313
+1111255,NM_000518.5(HBB):c.156T>C (p.Pro52=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226736,A,G,single nucleotide variant,762111851
+1119234,NM_000518.5(HBB):c.150C>T (p.Ser50=),Likely benign,"criteria provided, single submitter",not provided,11,5226742,G,A,single nucleotide variant,2133588564
+1108115,NM_000518.5(HBB):c.92+48G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226882,C,T,single nucleotide variant,372778054
+1118833,NM_000518.5(HBB):c.92+41A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226889,T,C,single nucleotide variant,1847577181
+1106731,NM_000518.5(HBB):c.92+40T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226890,A,T,single nucleotide variant,375672426
+1118834,NM_000518.5(HBB):c.92+26T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226904,A,G,single nucleotide variant,1035809053
+1127267,NM_000518.5(HBB):c.*34G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225564,C,T,single nucleotide variant,200399660
+1121500,NM_000518.5(HBB):c.426G>T (p.Leu142=),Likely benign,"criteria provided, single submitter",not provided,11,5225616,C,A,single nucleotide variant,1268853687
+1120940,NM_000518.5(HBB):c.363A>G (p.Lys121=),Likely benign,"criteria provided, single submitter",not provided,11,5225679,T,C,single nucleotide variant,34726542
+1121225,NM_000518.5(HBB):c.316-11T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225737,A,G,single nucleotide variant,755236703
+1139577,NM_000518.5(HBB):c.316-66A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225792,T,C,single nucleotide variant,1589891683
+1133882,NM_000518.5(HBB):c.316-80T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225806,A,G,single nucleotide variant,1157691054
+1136202,NM_000518.5(HBB):c.316-115dup,Likely benign,"criteria provided, single submitter",not provided,11,5225840,G,GT,Duplication,2133586606
+1121198,NM_000518.5(HBB):c.316-153T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225879,A,G,single nucleotide variant,2133586668
+1139383,NM_000518.5(HBB):c.316-204G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225930,C,G,single nucleotide variant,2133586744
+1140992,NM_000518.5(HBB):c.316-239G>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided,11,5225965,C,G,single nucleotide variant,536547159
+1136434,NM_000518.5(HBB):c.316-258C>A,Likely benign,"criteria provided, single submitter",not provided,11,5225984,G,T,single nucleotide variant,1038541233
+1128010,NM_000518.5(HBB):c.316-282C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226008,G,C,single nucleotide variant,1167487432
+1130606,NM_000518.5(HBB):c.316-290_316-289insGGGCAATAATTT,Likely benign,"criteria provided, single submitter",not provided,11,5226015,G,GAAATTATTGCCC,Insertion,1417673135
+1126664,NM_000518.5(HBB):c.316-304T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226030,A,T,single nucleotide variant,2133586862
+1135885,NM_000518.5(HBB):c.316-325T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226051,A,G,single nucleotide variant,1847539392
+1134251,NM_000518.5(HBB):c.316-332C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226058,G,A,single nucleotide variant,1405170526
+1126324,NM_000518.5(HBB):c.316-335C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226061,G,A,single nucleotide variant,1847539707
+1132923,NM_000518.5(HBB):c.316-379C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226105,G,T,single nucleotide variant,2133586958
+1134790,NM_000518.5(HBB):c.316-387C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226113,G,T,single nucleotide variant,1847540939
+1137193,NM_000518.5(HBB):c.316-400T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226126,A,G,single nucleotide variant,1847541358
+1131950,NM_000518.5(HBB):c.316-417G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226143,C,T,single nucleotide variant,2133587015
+1124758,NM_000518.5(HBB):c.315+414A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226163,T,G,single nucleotide variant,1194340747
+1131314,NM_000518.5(HBB):c.315+364A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226213,T,C,single nucleotide variant,1847542712
+1138404,NM_000518.5(HBB):c.315+339T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226238,A,T,single nucleotide variant,2133587161
+1120442,NM_000518.5(HBB):c.315+325T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226252,A,C,single nucleotide variant,537557714
+1140225,NM_000518.5(HBB):c.315+316C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226261,G,A,single nucleotide variant,1847543546
+1130103,NM_000518.5(HBB):c.315+312T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226265,A,G,single nucleotide variant,759934114
+1138442,NM_000518.5(HBB):c.315+261T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226316,A,G,single nucleotide variant,966128514
+1122528,NM_000518.5(HBB):c.315+246C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226331,G,C,single nucleotide variant,1564874686
+1124939,NM_000518.5(HBB):c.315+202T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226375,A,G,single nucleotide variant,577036437
+1121394,NM_000518.5(HBB):c.315+195T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226382,A,G,single nucleotide variant,565840446
+1127800,NM_000518.5(HBB):c.315+183C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226394,G,T,single nucleotide variant,1008033761
+1139479,NM_000518.5(HBB):c.315+174A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226403,T,C,single nucleotide variant,2133587440
+1123082,NM_000518.5(HBB):c.315+160T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226417,A,G,single nucleotide variant,1564874728
+1124975,NM_000518.5(HBB):c.315+158A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226419,T,A,single nucleotide variant,948460713
+1135734,NM_000518.5(HBB):c.315+143G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226434,C,T,single nucleotide variant,191037579
+1122537,NM_000518.5(HBB):c.315+125T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226452,A,T,single nucleotide variant,1053188095
+1124760,NM_000518.5(HBB):c.315+115A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226462,T,A,single nucleotide variant,2133587513
+1126808,NM_000518.5(HBB):c.315+100G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226477,C,G,single nucleotide variant,899975457
+1127638,NM_000518.5(HBB):c.315+76A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226501,T,G,single nucleotide variant,1437595362
+1130698,NM_000518.5(HBB):c.315+74T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226503,A,G,single nucleotide variant,7480526
+1124649,NM_000518.5(HBB):c.315+71G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226506,C,T,single nucleotide variant,1015991895
+1124970,NM_000518.5(HBB):c.315+63T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226514,A,G,single nucleotide variant,1375672361
+1129052,NM_000518.5(HBB):c.315+16G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226561,C,A,single nucleotide variant,10768683
+1140182,NM_000518.5(HBB):c.303T>G (p.Pro101=),Likely benign,"criteria provided, single submitter",not provided,11,5226589,A,C,single nucleotide variant,768336186
+1127632,NM_000518.5(HBB):c.273G>A (p.Glu91=),Likely benign,"criteria provided, single submitter",not provided,11,5226619,C,T,single nucleotide variant,35002698
+1129520,NM_000518.5(HBB):c.261C>T (p.Ala87=),Likely benign,"criteria provided, single submitter",not provided,11,5226631,G,A,single nucleotide variant,1367496536
+1133359,NM_000518.5(HBB):c.93-7C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226806,G,T,single nucleotide variant,2133588899
+1123454,NM_000518.5(HBB):c.93-27C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226826,G,A,single nucleotide variant,376272324
+1132627,NM_000518.5(HBB):c.93-34C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226833,G,A,single nucleotide variant,763696976
+1127713,NM_000518.5(HBB):c.93-40C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226839,G,T,single nucleotide variant,556727592
+1126429,NM_000518.5(HBB):c.93-46T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226845,A,G,single nucleotide variant,373538213
+1121778,NM_000518.5(HBB):c.92+57G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226873,C,A,single nucleotide variant,962266675
+1127650,NM_000518.5(HBB):c.92+53T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226877,A,G,single nucleotide variant,1847576718
+1129240,NM_000518.5(HBB):c.92+50G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226880,C,T,single nucleotide variant,377447760
+1123116,NM_000518.5(HBB):c.92+48G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226882,C,G,single nucleotide variant,372778054
+1122216,NM_000518.5(HBB):c.92+45A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226885,T,C,single nucleotide variant,773415134
+1131624,NM_000518.5(HBB):c.92+39A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226891,T,C,single nucleotide variant,372716225
+1124679,NM_000518.5(HBB):c.92+37C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226893,G,T,single nucleotide variant,372467642
+1124680,NM_000518.5(HBB):c.92+22C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226908,G,C,single nucleotide variant,1232883523
+1132191,NM_000518.5(HBB):c.92+9C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226921,G,A,single nucleotide variant,374317172
+1142046,NM_000518.5(HBB):c.381G>A (p.Val127=),Likely benign,"criteria provided, single submitter",not provided,11,5225661,C,T,single nucleotide variant,1234756429
+1161533,NM_000518.5(HBB):c.330G>A (p.Val110=),Likely benign,"criteria provided, single submitter",not provided,11,5225712,C,T,single nucleotide variant,2133586316
+1154161,NM_000518.5(HBB):c.316-62T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225788,A,G,single nucleotide variant,2133586509
+1157947,NM_000518.5(HBB):c.316-68G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225794,C,A,single nucleotide variant,2133586515
+1157085,NM_000518.5(HBB):c.316-77G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225803,C,G,single nucleotide variant,1421375702
+1146323,NM_000518.5(HBB):c.316-112A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225838,T,C,single nucleotide variant,1847535052
+1154176,NM_000518.5(HBB):c.316-147A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225873,T,A,single nucleotide variant,1415697390
+1147067,NM_000518.5(HBB):c.316-198G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225924,C,A,single nucleotide variant,547258651
+1141382,NM_000518.5(HBB):c.316-223T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225949,A,T,single nucleotide variant,2133586768
+1152502,NM_000518.5(HBB):c.316-224A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225950,T,C,single nucleotide variant,2133586771
+1153305,NM_000518.5(HBB):c.316-249A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225975,T,C,single nucleotide variant,908372322
+1155055,NM_000518.5(HBB):c.316-278C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226004,G,A,single nucleotide variant,978207135
+1148975,NM_000518.5(HBB):c.316-290C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226016,G,T,single nucleotide variant,1847538764
+1143473,NM_000518.5(HBB):c.316-339C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226065,G,A,single nucleotide variant,1322482679
+1156511,NM_000518.5(HBB):c.316-347A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226073,T,A,single nucleotide variant,1847539942
+1143356,NM_000518.5(HBB):c.316-358T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226084,A,T,single nucleotide variant,536670489
+1159671,NM_000518.5(HBB):c.316-359A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226085,T,C,single nucleotide variant,1847540316
+1160210,NM_000518.5(HBB):c.316-363T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226089,A,G,single nucleotide variant,113311899
+1153781,NM_000518.5(HBB):c.316-378C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226104,G,A,single nucleotide variant,1332795013
+1149802,NM_000518.5(HBB):c.316-407A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226133,T,G,single nucleotide variant,906834582
+1145451,NM_000518.5(HBB):c.316-411G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226137,C,G,single nucleotide variant,113426432
+1157996,NM_000518.5(HBB):c.316-415T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226141,A,C,single nucleotide variant,2133587013
+1157001,NM_000518.5(HBB):c.315+410C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226167,G,T,single nucleotide variant,2133587055
+1145767,NM_000518.5(HBB):c.315+368T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226209,A,C,single nucleotide variant,906980587
+1145475,NM_000518.5(HBB):c.315+327G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226250,C,T,single nucleotide variant,2133587175
+1161626,NM_000518.5(HBB):c.315+300dup,Likely benign,"criteria provided, single submitter",not provided,11,5226268,G,GT,Duplication,1020110937
+1161484,NM_000518.5(HBB):c.315+290T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226287,A,C,single nucleotide variant,1847544094
+1151871,NM_000518.5(HBB):c.315+287C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226290,G,A,single nucleotide variant,1847544152
+1157380,NM_000518.5(HBB):c.315+237T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226340,A,T,single nucleotide variant,1265141258
+1148302,NM_000518.5(HBB):c.315+213T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226364,A,G,single nucleotide variant,1055464916
+1146145,NM_000518.5(HBB):c.315+211T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226366,A,C,single nucleotide variant,2133587370
+1158961,NM_000518.5(HBB):c.315+165G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226412,C,T,single nucleotide variant,2133587453
+1158508,NM_000518.5(HBB):c.315+153_315+157del,Likely benign,"criteria provided, single submitter",not provided,11,5226419,TAAAAG,T,Deletion,1268908857
+1145460,NM_000518.5(HBB):c.315+129G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226448,C,T,single nucleotide variant,371659615
+1144869,NM_000518.5(HBB):c.315+77G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226500,C,A,single nucleotide variant,2133587565
+1151547,NM_000518.5(HBB):c.315+41T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226536,A,T,single nucleotide variant,2133587629
+1152045,NM_000518.5(HBB):c.303T>C (p.Pro101=),Likely benign,"criteria provided, single submitter",not provided,11,5226589,A,G,single nucleotide variant,768336186
+1157531,NM_000518.5(HBB):c.255C>T (p.Thr85=),Likely benign,"criteria provided, single submitter",not provided,11,5226637,G,A,single nucleotide variant,1334966870
+1143503,NM_000518.5(HBB):c.159T>C (p.Asp53=),Likely benign,"criteria provided, single submitter",not provided,11,5226733,A,G,single nucleotide variant,777114006
+1153698,NM_000518.5(HBB):c.150C>A (p.Ser50=),Likely benign,"criteria provided, single submitter",not provided,11,5226742,G,T,single nucleotide variant,2133588564
+1147444,NM_000518.5(HBB):c.141G>C (p.Gly47=),Likely benign,"criteria provided, single submitter",not provided,11,5226751,C,G,single nucleotide variant,1554917961
+1155441,NM_000518.5(HBB):c.93-36CT[2],Likely benign,"criteria provided, single submitter",not provided,11,5226827,CAGAG,C,Microsatellite,746824976
+1153073,NM_000518.5(HBB):c.93-32C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226831,G,A,single nucleotide variant,1372536490
+1153807,NM_000518.5(HBB):c.93-46T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226845,A,T,single nucleotide variant,373538213
+1151774,NM_000518.5(HBB):c.92+62A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226868,T,A,single nucleotide variant,988935334
+1153690,NM_000518.5(HBB):c.92+61C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226869,G,A,single nucleotide variant,747160822
+1160989,NM_000518.5(HBB):c.92+61C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226869,G,C,single nucleotide variant,747160822
+1161504,NM_000518.5(HBB):c.92+35A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226895,T,C,single nucleotide variant,1847577579
+1142119,NM_000518.5(HBB):c.92+18A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226912,T,C,single nucleotide variant,2133589125
+1161505,NM_000518.5(HBB):c.92+17C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226913,G,A,single nucleotide variant,1308676559
+1153019,NM_000518.5(HBB):c.92+12G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226918,C,T,single nucleotide variant,2133589140
+1159538,NM_000518.5(HBB):c.92+7A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226923,T,C,single nucleotide variant,63750195
+1155998,NM_000518.5(HBB):c.9_10delinsCT (p.His3_Leu4=),Likely benign,"criteria provided, single submitter",not provided,11,5227012,GA,AG,Indel,2133589628
+1167977,NM_000518.5(HBB):c.315+205dup,Benign,"criteria provided, single submitter",not provided,11,5226363,G,GA,Duplication,879578966
+1301331,NM_000518.5(HBB):c.372C>T (p.Thr124=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225670,G,A,single nucleotide variant,780307221
+1321374,NM_000518.5(HBB):c.372C>A (p.Thr124=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225670,G,T,single nucleotide variant,780307221
+1542738,NM_000518.5(HBB):c.316-262G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225988,C,G,single nucleotide variant,2133586813
+1542866,NM_000518.5(HBB):c.93-59C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226858,G,A,single nucleotide variant,1847576219
+1544426,NM_000518.5(HBB):c.316-28G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225754,C,A,single nucleotide variant,771736852
+1639168,NM_000518.5(HBB):c.315+22T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226555,A,C,single nucleotide variant,1847549061
+1546485,NM_000518.5(HBB):c.315+83G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226494,C,A,single nucleotide variant,2133587552
+1616432,NM_000518.5(HBB):c.315+283_315+284del,Likely benign,"criteria provided, single submitter",not provided,11,5226292,ATC,A,Microsatellite,2133587259
+1618173,NM_000518.5(HBB):c.315+198T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226379,A,G,single nucleotide variant,2133587402
+1583747,NM_000518.5(HBB):c.92+35_92+36insATAGAATG,Likely benign,"criteria provided, single submitter",not provided,11,5226894,G,GCATTCTAT,Insertion,781015056
+1671411,NM_000518.5(HBB):c.87G>A (p.Leu29=),Likely benign,"criteria provided, single submitter",not provided,11,5226935,C,T,single nucleotide variant,1191121382
+1533572,NM_000518.5(HBB):c.315+48G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226529,C,G,single nucleotide variant,751644989
+1627864,NM_000518.5(HBB):c.316-56G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225782,C,A,single nucleotide variant,2133586502
+1673148,NM_000518.5(HBB):c.92+64A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226866,T,G,single nucleotide variant,2133589016
+1537040,NM_000518.5(HBB):c.92+57G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226873,C,G,single nucleotide variant,962266675
+1579555,NM_000518.5(HBB):c.315+312T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226265,A,T,single nucleotide variant,759934114
+1581167,NM_000518.5(HBB):c.195C>G (p.Gly65=),Likely benign,"criteria provided, single submitter",not provided|beta Thalassemia,11,5226697,G,C,single nucleotide variant,2133588365
+1612179,NM_000518.5(HBB):c.315+396_315+400del,Likely benign,"criteria provided, single submitter",not provided,11,5226176,AAAAAT,A,Deletion,1310746626
+1649952,NM_000518.5(HBB):c.315+14A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226563,T,G,single nucleotide variant,2133587681
+1613967,NM_000518.5(HBB):c.315+384T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226193,A,C,single nucleotide variant,1304388836
+1548194,NM_000518.5(HBB):c.316-132T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225858,A,G,single nucleotide variant,2133586632
+1572170,NM_000518.5(HBB):c.316-284C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226010,G,T,single nucleotide variant,1373924860
+1549965,NM_000518.5(HBB):c.315+225T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226352,A,T,single nucleotide variant,2133587337
+1573923,NM_000518.5(HBB):c.316-212A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225938,T,G,single nucleotide variant,2133586752
+1623178,NM_000518.5(HBB):c.315+12_315+13dup,Likely benign,"criteria provided, single submitter",not provided,11,5226563,T,TCC,Duplication,770630710
+1623512,NM_000518.5(HBB):c.316-53C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225779,G,A,single nucleotide variant,2133586497
+1623587,NM_000518.5(HBB):c.316-29T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225755,A,G,single nucleotide variant,1847533217
+1559725,NM_000518.5(HBB):c.316-366A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226092,T,C,single nucleotide variant,2133586933
+1625041,NM_000518.5(HBB):c.316-245C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225971,G,A,single nucleotide variant,1847538019
+1625263,NM_000518.5(HBB):c.315+344A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226233,T,C,single nucleotide variant,1564874640
+1659455,NM_000518.5(HBB):c.315+344A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226233,T,G,single nucleotide variant,1564874640
+1634543,NM_000518.5(HBB):c.289C>T (p.Leu97=),Likely benign,"criteria provided, single submitter",not provided,11,5226603,G,A,single nucleotide variant,34665886
+1615668,NM_000518.5(HBB):c.92+57G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226873,C,T,single nucleotide variant,962266675
+1653217,NM_000518.5(HBB):c.315+45A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226532,T,C,single nucleotide variant,1352476647
+1617500,NM_000518.5(HBB):c.315+388_315+389insAATA,Likely benign,"criteria provided, single submitter",not provided,11,5226188,A,ATATT,Insertion,2133587112
+1655157,NM_000518.5(HBB):c.315+24T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226553,A,C,single nucleotide variant,2133587650
+1610083,NM_000518.5(HBB):c.315+244T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226333,A,G,single nucleotide variant,2133587310
+1551548,NM_000518.5(HBB):c.234C>T (p.His78=),Likely benign,"criteria provided, single submitter",not provided,11,5226658,G,A,single nucleotide variant,33918483
+1575692,NM_000518.5(HBB):c.315+313_315+314insAAAAACTTAACTTAAAAA,Likely benign,"criteria provided, single submitter",not provided,11,5226263,G,GTTTTTTAAGTTAAGTTTT,Microsatellite,2133587195
+1611650,NM_000518.5(HBB):c.315+231C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226346,G,A,single nucleotide variant,2133587331
+1553442,NM_000518.5(HBB):c.316-154G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225880,C,T,single nucleotide variant,1847536198
+1553467,NM_000518.5(HBB):c.316-410T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226136,A,T,single nucleotide variant,1847541593
+1661185,NM_000518.5(HBB):c.316-154G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225880,C,A,single nucleotide variant,1847536198
+1662786,NM_000518.5(HBB):c.315+264C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226313,G,T,single nucleotide variant,187507944
+1662829,NM_000518.5(HBB):c.92+40T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226890,A,G,single nucleotide variant,375672426
+1563014,NM_000518.5(HBB):c.316-193A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225919,T,C,single nucleotide variant,1342329604
+1592636,NM_000518.5(HBB):c.315+386_315+390del,Likely benign,"criteria provided, single submitter",not provided,11,5226186,GAAAAT,G,Deletion,1250450244
+1569465,NM_000518.5(HBB):c.315+397_315+402del,Likely benign,"criteria provided, single submitter",not provided,11,5226174,TTAAAAA,T,Deletion,2133587070
+1584709,NM_000518.5(HBB):c.316-106C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225832,G,A,single nucleotide variant,34690599
+1584803,NM_000518.5(HBB):c.316-176T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225902,A,G,single nucleotide variant,2133586691
+1556960,NM_000518.5(HBB):c.316-220C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225946,G,A,single nucleotide variant,558455574
+1557222,NM_000518.5(HBB):c.93-64A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226863,T,C,single nucleotide variant,2133589012
+1656642,NM_000518.5(HBB):c.315+65G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226512,C,T,single nucleotide variant,1847548262
+1656658,NM_000518.5(HBB):c.315+114G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226463,C,T,single nucleotide variant,2133587518
+1658438,NM_000518.5(HBB):c.316-209T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225935,A,G,single nucleotide variant,2133586745
+1644289,NM_000518.5(HBB):c.315+176T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226401,A,G,single nucleotide variant,1019464875
+1554915,NM_000518.5(HBB):c.300T>C (p.Asp100=),Likely benign,"criteria provided, single submitter",not provided,11,5226592,A,G,single nucleotide variant,34013622
+1579014,NM_000518.5(HBB):c.316-273A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225999,T,A,single nucleotide variant,966818537
+1579049,NM_000518.5(HBB):c.316-143A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|beta Thalassemia,11,5225869,T,C,single nucleotide variant,1589891738
+1649396,NM_000518.5(HBB):c.93-5C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226804,G,A,single nucleotide variant,1205031264
+1565090,NM_000518.5(HBB):c.315+178G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226399,C,T,single nucleotide variant,1847546403
+1571451,NM_000518.5(HBB):c.316-226G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225952,C,T,single nucleotide variant,2133586774
+1548840,NM_000518.5(HBB):c.315+117T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226460,A,T,single nucleotide variant,2133587504
+1608900,NM_000518.5(HBB):c.92+24G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226906,C,G,single nucleotide variant,1847578084
+1608998,NM_000518.5(HBB):c.258T>C (p.Phe86=),Likely benign,"criteria provided, single submitter",not provided,11,5226634,A,G,single nucleotide variant,2133588043
+1588286,NM_000518.5(HBB):c.315+360T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226217,A,G,single nucleotide variant,1374196285
+1588348,NM_000518.5(HBB):c.316-277_316-274del,Likely benign,"criteria provided, single submitter",not provided,11,5225999,TGAAA,T,Microsatellite,1847538379
+1661893,NM_000518.5(HBB):c.316-405_316-404inv,Likely benign,"criteria provided, single submitter",not provided,11,5226130,CA,TG,Inversion,-1
+1661914,NM_000518.5(HBB):c.316-89T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225815,A,G,single nucleotide variant,2133586554
+1661917,NM_000518.5(HBB):c.315+219C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226358,G,T,single nucleotide variant,1270522548
+1662061,NM_000518.5(HBB):c.315+293G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226284,C,A,single nucleotide variant,1320832744
+1591892,NM_000518.5(HBB):c.315+9A>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226568,T,G,single nucleotide variant,1277597344
+1613548,NM_000518.5(HBB):c.315+110G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226467,C,T,single nucleotide variant,946957516
+1651061,NM_000518.5(HBB):c.316-44C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225770,G,A,single nucleotide variant,1847533762
+1616943,NM_000518.5(HBB):c.316-111T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225837,A,G,single nucleotide variant,2133586594
+1617068,NM_000518.5(HBB):c.316-49C>A,Likely benign,"criteria provided, single submitter",not provided,11,5225775,G,T,single nucleotide variant,2133586488
+1654849,NM_000518.5(HBB):c.316-119_316-117del,Likely benign,"criteria provided, single submitter",not provided,11,5225842,AGCT,A,Microsatellite,2133586615
+1620530,NM_000518.5(HBB):c.18T>C (p.Pro6=),Likely benign,"criteria provided, single submitter",not provided,11,5227004,A,G,single nucleotide variant,2133589583
+1584154,NM_000518.5(HBB):c.315+211_315+213del,Likely benign,"criteria provided, single submitter",not provided,11,5226363,GAAA,G,Deletion,879578966
+1669845,NM_000518.5(HBB):c.92+54G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226876,C,G,single nucleotide variant,1847576671
+1552193,NM_000518.5(HBB):c.316-81T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225807,A,G,single nucleotide variant,911937119
+1576566,NM_000518.5(HBB):c.315+36T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226541,A,T,single nucleotide variant,1157248137
+1643392,NM_000518.5(HBB):c.315+109C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226468,G,T,single nucleotide variant,543925348
+1564030,NM_000518.5(HBB):c.316-57A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225783,T,G,single nucleotide variant,2133586504
+1665450,NM_000518.5(HBB):c.315+181T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226396,A,G,single nucleotide variant,2133587429
+1667490,NM_000518.5(HBB):c.316-394G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226120,C,T,single nucleotide variant,1297920360
+1556906,NM_000518.5(HBB):c.93-41A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226840,T,G,single nucleotide variant,1847575815
+1673338,NM_000518.5(HBB):c.315+56C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226521,G,A,single nucleotide variant,1238888453
+1673467,NM_000518.5(HBB):c.93-55G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226854,C,T,single nucleotide variant,1186575711
+1673496,NM_000518.5(HBB):c.316-46G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225772,C,G,single nucleotide variant,1554917642
+1673500,NM_000518.5(HBB):c.315+20G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226557,C,G,single nucleotide variant,2133587658
+1535667,NM_000518.5(HBB):c.316-216G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225942,C,T,single nucleotide variant,1847537665
+1537117,NM_000518.5(HBB):c.92+49G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226881,C,T,single nucleotide variant,2133589046
+1537336,NM_000518.5(HBB):c.315+183C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226394,G,C,single nucleotide variant,1008033761
+1537363,NM_000518.5(HBB):c.316-82G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225808,C,A,single nucleotide variant,944935116
+1583301,NM_000518.5(HBB):c.316-9C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225735,G,C,single nucleotide variant,1847532493
+1528012,NM_000518.5(HBB):c.315+54T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226523,A,G,single nucleotide variant,1280339232
+1529709,NM_000518.5(HBB):c.316-77G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225803,C,T,single nucleotide variant,1421375702
+1670688,NM_000518.5(HBB):c.93-34C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226833,G,C,single nucleotide variant,763696976
+1532941,NM_000518.5(HBB):c.92+46C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226884,G,A,single nucleotide variant,1847576979
+1660101,NM_000518.5(HBB):c.315+118G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226459,C,T,single nucleotide variant,1302097141
+1560083,NM_000518.5(HBB):c.315+314C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226263,G,A,single nucleotide variant,1847543579
+1661837,NM_000518.5(HBB):c.92+58A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226872,T,C,single nucleotide variant,1847576487
+1561745,NM_000518.5(HBB):c.315+378C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226199,G,A,single nucleotide variant,2133587126
+1561967,NM_000518.5(HBB):c.315+379C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226198,G,A,single nucleotide variant,2133587125
+1635143,NM_000518.5(HBB):c.78T>G (p.Gly26=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided,11,5226944,A,C,single nucleotide variant,373379910
+1602775,NM_000518.5(HBB):c.315+246C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226331,G,A,single nucleotide variant,1564874686
+1602982,NM_000518.5(HBB):c.315+412T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226165,A,G,single nucleotide variant,553945255
+1616150,NM_000518.5(HBB):c.315+310T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226267,A,T,single nucleotide variant,1246447924
+1621425,NM_000518.5(HBB):c.315+417A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226160,T,C,single nucleotide variant,2133587047
+1655708,NM_000518.5(HBB):c.315+229T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226348,A,T,single nucleotide variant,1446366280
+1672645,NM_000518.5(HBB):c.316-95C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225821,G,C,single nucleotide variant,1589891699
+1629054,NM_000518.5(HBB):c.316-404G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226130,C,A,single nucleotide variant,1847541400
+1536330,NM_000518.5(HBB):c.316-219A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225945,T,C,single nucleotide variant,2133586760
+1538061,NM_000518.5(HBB):c.54G>A (p.Lys18=),Likely benign,"criteria provided, single submitter",not provided,11,5226968,C,T,single nucleotide variant,36006214
+1663300,NM_000518.5(HBB):c.315+200C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226377,G,A,single nucleotide variant,2133587399
+1563749,NM_000518.5(HBB):c.316-171_316-156dup,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225881,A,AATTTATATGCAGAAAT,Duplication,2133586678
+1565147,NM_000518.5(HBB):c.316-281T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226007,A,C,single nucleotide variant,1241261843
+1566948,NM_000518.5(HBB):c.315+390T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226187,A,G,single nucleotide variant,2133587103
+1606259,NM_000518.5(HBB):c.316-215A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225941,T,A,single nucleotide variant,1220750242
+1585227,NM_000518.5(HBB):c.312C>T (p.Phe104=),Likely benign,"criteria provided, single submitter",not provided,11,5226580,G,A,single nucleotide variant,35067717
+1557489,NM_000518.5(HBB):c.315+287C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226290,G,T,single nucleotide variant,1847544152
+1657398,NM_000518.5(HBB):c.315+233A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226344,T,C,single nucleotide variant,2133587325
+1586850,NM_000518.5(HBB):c.315+210T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226367,A,T,single nucleotide variant,1847545483
+1632385,NM_000518.5(HBB):c.316-40T>G,Likely benign,"criteria provided, single submitter",not provided,11,5225766,A,C,single nucleotide variant,2133586468
+1634371,NM_000518.5(HBB):c.315+350G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226227,C,T,single nucleotide variant,1363355137
+1602123,NM_000518.5(HBB):c.93-16A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226815,T,C,single nucleotide variant,1480884739
+1602124,NM_000518.5(HBB):c.93-19T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226818,A,C,single nucleotide variant,1451581925
+1602125,NM_000518.5(HBB):c.93-24_93-23del,Likely benign,"criteria provided, single submitter",not provided,11,5226821,AAT,A,Deletion,1385066437
+1602126,NM_000518.5(HBB):c.93-28G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226827,C,G,single nucleotide variant,1564875652
+1602127,NM_000518.5(HBB):c.93-30C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226829,G,C,single nucleotide variant,752175922
+1568873,NM_000518.5(HBB):c.27G>A (p.Lys9=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226995,C,T,single nucleotide variant,35198910
+1626697,NM_000518.5(HBB):c.315+148A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226429,T,C,single nucleotide variant,2133587466
+1609604,NM_000518.5(HBB):c.316-298A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226024,T,A,single nucleotide variant,2133586859
+1552953,NM_000518.5(HBB):c.336C>T (p.Val112=),Likely benign,"criteria provided, single submitter",not provided,11,5225706,G,A,single nucleotide variant,1441670878
+1611236,NM_000518.5(HBB):c.316-162T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225888,A,G,single nucleotide variant,1022352464
+1588617,NM_000518.5(HBB):c.316-43C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225769,G,A,single nucleotide variant,769673434
+1660582,NM_000518.5(HBB):c.316-350T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226076,A,G,single nucleotide variant,2133586909
+1662306,NM_000518.5(HBB):c.316-252A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225978,T,C,single nucleotide variant,2133586801
+1562797,NM_000518.5(HBB):c.315+187T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226390,A,G,single nucleotide variant,1847546271
+1636161,NM_000518.5(HBB):c.315+330C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226247,G,T,single nucleotide variant,1484625119
+1637547,NM_000518.5(HBB):c.315+195T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226382,A,T,single nucleotide variant,565840446
+1546580,NM_000518.5(HBB):c.315+11G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226566,C,G,single nucleotide variant,778382385
+1605684,NM_000518.5(HBB):c.316-179A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225905,T,C,single nucleotide variant,185607297
+1630450,NM_000518.5(HBB):c.316-260T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225986,A,G,single nucleotide variant,1461234906
+1537687,NM_000518.5(HBB):c.316-172T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225898,A,G,single nucleotide variant,2133586686
+1641954,NM_000518.5(HBB):c.315+158_315+166del,Likely benign,"criteria provided, single submitter",not provided,11,5226410,AACAGCAAAT,A,Deletion,2133587449
+1580352,NM_000518.5(HBB):c.315+134C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226443,G,C,single nucleotide variant,1356515247
+1667603,NM_000518.5(HBB):c.316-256A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225982,T,C,single nucleotide variant,1847538154
+1606913,NM_000518.5(HBB):c.315+7C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226570,G,A,single nucleotide variant,35614355
+1550256,NM_000518.5(HBB):c.315+34C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226543,G,T,single nucleotide variant,759795721
+1648977,NM_000518.5(HBB):c.316-66A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225792,T,A,single nucleotide variant,1589891683
+1612817,NM_000518.5(HBB):c.6G>T (p.Val2=),Likely benign,"criteria provided, single submitter",not provided,11,5227016,C,A,single nucleotide variant,1349384278
+1614562,NM_000518.5(HBB):c.315+402_315+405del,Likely benign,"criteria provided, single submitter",not provided,11,5226171,CAATT,C,Deletion,2133587062
+1529989,NM_000518.5(HBB):c.210T>A (p.Gly70=),Likely benign,"criteria provided, single submitter",not provided,11,5226682,A,T,single nucleotide variant,2133588276
+1669251,NM_000518.5(HBB):c.78T>C (p.Gly26=),Likely benign,"criteria provided, single submitter",not provided,11,5226944,A,G,single nucleotide variant,373379910
+1531458,NM_000518.5(HBB):c.306G>A (p.Glu102=),Likely benign,"criteria provided, single submitter",not provided,11,5226586,C,T,single nucleotide variant,35209591
+1531668,NM_000518.5(HBB):c.315+16G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226561,C,T,single nucleotide variant,10768683
+1770789,NM_000518.5(HBB):c.135C>G (p.Ser45=),Likely benign,"criteria provided, single submitter",Inborn genetic diseases,11,5226757,G,C,single nucleotide variant,2494296012
+1802686,NM_000518.5(HBB):c.93-56G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226855,C,T,single nucleotide variant,2494296415
+2159789,NM_000518.5(HBB):c.315+210_315+213del,Likely benign,"criteria provided, single submitter",not provided,11,5226363,GAAAA,G,Deletion,879578966
+2157541,NM_000518.5(HBB):c.315+44T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226533,A,G,single nucleotide variant,2494294802
+2192067,NM_000518.5(HBB):c.315+288A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226289,T,G,single nucleotide variant,2494294011
+2421180,NM_000518.5(HBB):c.315+309C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226268,G,T,single nucleotide variant,1847543713
+1922054,NM_000518.5(HBB):c.315+47G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226530,C,G,single nucleotide variant,1589892198
+1929948,NM_000518.5(HBB):c.93-27C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226826,G,T,single nucleotide variant,376272324
+1930030,NM_000518.5(HBB):c.315+47G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226530,C,T,single nucleotide variant,1589892198
+1945194,NM_000518.5(HBB):c.315+404T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226173,A,G,single nucleotide variant,1052679623
+1942494,NM_000518.5(HBB):c.249G>A (p.Lys83=),Likely benign,"criteria provided, single submitter",not provided,11,5226643,C,T,single nucleotide variant,33991993
+1960918,NM_000518.5(HBB):c.315+8T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226569,A,G,single nucleotide variant,1847549511
+1962865,NM_000518.5(HBB):c.316-39T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225765,A,G,single nucleotide variant,1446409832
+1964131,NM_000518.5(HBB):c.316-25C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225751,G,C,single nucleotide variant,745321944
+1972497,NM_000518.5(HBB):c.315+299T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226278,A,G,single nucleotide variant,1847543915
+1975392,NM_000518.5(HBB):c.92+65G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226865,C,T,single nucleotide variant,1170353179
+1977229,NM_000518.5(HBB):c.315+12G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226565,C,A,single nucleotide variant,2494294899
+1965309,NM_000518.5(HBB):c.316-245C>A,Likely benign,"criteria provided, single submitter",not provided,11,5225971,G,T,single nucleotide variant,1847538019
+1968570,NM_000518.5(HBB):c.316-260T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225986,A,T,single nucleotide variant,1461234906
+1978912,NM_000518.5(HBB):c.315+26T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226551,A,G,single nucleotide variant,368604295
+1978635,NM_000518.5(HBB):c.102G>A (p.Val34=),Likely benign,"criteria provided, single submitter",not provided,11,5226790,C,T,single nucleotide variant,375797635
+1983531,NM_000518.5(HBB):c.285C>T (p.Asp95=),Likely benign,"criteria provided, single submitter",not provided,11,5226607,G,A,single nucleotide variant,747900373
+1985586,NM_000518.5(HBB):c.93-18C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226817,G,C,single nucleotide variant,777028217
+1978241,NM_000518.5(HBB):c.315+330C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226247,G,C,single nucleotide variant,1484625119
+1992292,NM_000518.5(HBB):c.315+53G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226524,C,A,single nucleotide variant,2494294775
+1991864,NM_000518.5(HBB):c.316-344A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226070,T,G,single nucleotide variant,1847539891
+2005596,NM_000518.5(HBB):c.316-370G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226096,C,A,single nucleotide variant,1304036788
+1999798,NM_000518.5(HBB):c.408T>C (p.Ala136=),Likely benign,"criteria provided, single submitter",not provided,11,5225634,A,G,single nucleotide variant,2494291991
+2003523,NM_000518.5(HBB):c.92+21A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226909,T,C,single nucleotide variant,369482557
+1996000,NM_000518.5(HBB):c.316-149T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225875,A,T,single nucleotide variant,2494292979
+1996113,NM_000518.5(HBB):c.315+322G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226255,C,T,single nucleotide variant,1847543397
+1997611,NM_000518.5(HBB):c.92+32G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226898,C,T,single nucleotide variant,369168168
+1997666,NM_000518.5(HBB):c.315+83G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226494,C,T,single nucleotide variant,2133587552
+1997862,NM_000518.5(HBB):c.315+418T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226159,A,G,single nucleotide variant,1847541989
+1997274,NM_000518.5(HBB):c.331C>T (p.Leu111=),Likely benign,"criteria provided, single submitter",not provided,11,5225711,G,A,single nucleotide variant,1310721664
+2002515,NM_000518.5(HBB):c.316-324A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226050,T,C,single nucleotide variant,1194851586
+2010842,NM_000518.5(HBB):c.316-173A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225899,T,A,single nucleotide variant,1847536620
+2017700,NM_000518.5(HBB):c.316-291C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226017,G,A,single nucleotide variant,2494293368
+2008558,NM_000518.5(HBB):c.316-166T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225892,A,G,single nucleotide variant,1847536435
+2008559,NM_000518.5(HBB):c.315+307A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226270,T,C,single nucleotide variant,2494293977
+2010262,NM_000518.5(HBB):c.276G>A (p.Leu92=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226616,C,T,single nucleotide variant,1589892429
+2017243,NM_000518.5(HBB):c.316-65T>G,Likely benign,"criteria provided, single submitter",not provided,11,5225791,A,C,single nucleotide variant,2494292726
+2018766,NM_000518.5(HBB):c.315+72_315+75dup,Likely benign,"criteria provided, single submitter",not provided,11,5226501,T,TTATC,Duplication,2494294719
+2009669,NM_000518.5(HBB):c.93-39T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226838,A,G,single nucleotide variant,750275131
+2014931,NM_000518.5(HBB):c.315+178_315+180del,Likely benign,"criteria provided, single submitter",not provided,11,5226396,AAAC,A,Deletion,2494294324
+2016705,NM_000518.5(HBB):c.315+300A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226277,T,A,single nucleotide variant,1178558353
+2007540,NM_000518.5(HBB):c.316-99T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225825,A,G,single nucleotide variant,1232651664
+2009601,NM_000518.5(HBB):c.316-178T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225904,A,T,single nucleotide variant,2494293080
+2016469,NM_000518.5(HBB):c.316-254G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225980,C,T,single nucleotide variant,941178010
+2022708,NM_000518.5(HBB):c.315+119C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226458,G,T,single nucleotide variant,2494294534
+2026143,NM_000518.5(HBB):c.102G>T (p.Val34=),Likely benign,"criteria provided, single submitter",not provided,11,5226790,C,A,single nucleotide variant,375797635
+2025654,NM_000518.5(HBB):c.315+230A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226347,T,C,single nucleotide variant,2494294163
+2025778,NM_000518.5(HBB):c.316-235C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225961,G,C,single nucleotide variant,2494293199
+2025792,NM_000518.5(HBB):c.316-328del,Likely benign,"criteria provided, single submitter",not provided,11,5226053,TA,T,Deletion,2494293469
+2027331,NM_000518.5(HBB):c.315+299T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226278,A,T,single nucleotide variant,1847543915
+2032327,NM_000518.5(HBB):c.316-185C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225911,G,C,single nucleotide variant,1609812
+2023608,NM_000518.5(HBB):c.316-376A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226102,T,C,single nucleotide variant,2494293578
+2030369,NM_000518.5(HBB):c.93-31T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226830,A,C,single nucleotide variant,755640155
+2019578,NM_000518.5(HBB):c.315+321T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226256,A,C,single nucleotide variant,1847543430
+2019850,NM_000518.5(HBB):c.315+229dup,Benign,"criteria provided, single submitter",not provided,11,5226347,T,TA,Duplication,1282253170
+2021501,NM_000518.5(HBB):c.315+124G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226453,C,T,single nucleotide variant,1175432125
+2026386,NM_000518.5(HBB):c.316-328T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226054,A,T,single nucleotide variant,1847539426
+2026415,NM_000518.5(HBB):c.316-345A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226071,T,G,single nucleotide variant,2494293527
+2045067,NM_000518.5(HBB):c.92+36C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226894,G,A,single nucleotide variant,776904725
+2035733,NM_000518.5(HBB):c.45G>T (p.Leu15=),Likely benign,"criteria provided, single submitter",not provided,11,5226977,C,A,single nucleotide variant,762782573
+2033805,NM_000518.5(HBB):c.316-286A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226012,T,G,single nucleotide variant,2494293315
+2035477,NM_000518.5(HBB):c.316-145G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225871,C,A,single nucleotide variant,1005042281
+2045808,NM_000518.5(HBB):c.357T>C (p.Phe119=),Likely benign,"criteria provided, single submitter",not provided,11,5225685,A,G,single nucleotide variant,1445341934
+2034867,NM_000518.5(HBB):c.92+22C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226908,G,A,single nucleotide variant,1232883523
+2035022,NM_000518.5(HBB):c.316-386A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226112,T,G,single nucleotide variant,1847540893
+2036691,NM_000518.5(HBB):c.315+319T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226258,A,G,single nucleotide variant,2494293937
+2036940,NM_000518.5(HBB):c.315+211T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226366,A,T,single nucleotide variant,2133587370
+2045391,NM_000518.5(HBB):c.315+199G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226378,C,T,single nucleotide variant,1847546062
+2053821,NM_000518.5(HBB):c.252C>T (p.Gly84=),Likely benign,"criteria provided, single submitter",not provided,11,5226640,G,A,single nucleotide variant,2133588069
+2058295,NM_000518.5(HBB):c.315+38C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226539,G,A,single nucleotide variant,1435202349
+2052775,NM_000518.5(HBB):c.92+22C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226908,G,T,single nucleotide variant,1232883523
+2048985,NM_000518.5(HBB):c.315+342G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226235,C,T,single nucleotide variant,1847543045
+2062347,NM_000518.5(HBB):c.315+248T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226329,A,G,single nucleotide variant,532489097
+2069088,NM_000518.5(HBB):c.315+50T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226527,A,T,single nucleotide variant,368176939
+2087515,NM_000518.5(HBB):c.316-270G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225996,C,T,single nucleotide variant,2494293271
+2086460,NM_000518.5(HBB):c.316-25C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225751,G,A,single nucleotide variant,745321944
+2086531,NM_000518.5(HBB):c.246C>T (p.Leu82=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226646,G,A,single nucleotide variant,145669504
+2089612,NM_000518.5(HBB):c.315+168C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226409,G,A,single nucleotide variant,2494294420
+2090941,NM_000518.5(HBB):c.316-84T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225810,A,G,single nucleotide variant,2494292784
+2091277,NM_000518.5(HBB):c.92+64A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226866,T,C,single nucleotide variant,2133589016
+2098074,NM_000518.5(HBB):c.315+88_315+89del,Likely benign,"criteria provided, single submitter",not provided,11,5226487,CTG,C,Deletion,1481385514
+2098228,NM_000518.5(HBB):c.93-44G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226843,C,G,single nucleotide variant,1564875667
+2099827,NM_000518.5(HBB):c.315+205T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226372,A,G,single nucleotide variant,1589892081
+2097478,NM_000518.5(HBB):c.93-65_93-64del,Likely benign,"criteria provided, single submitter",not provided,11,5226862,CTT,C,Deletion,1847576339
+2095288,NM_000518.5(HBB):c.93-61C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226860,G,T,single nucleotide variant,1847576255
+2097042,NM_000518.5(HBB):c.316-89T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225815,A,T,single nucleotide variant,2133586554
+2088016,NM_000518.5(HBB):c.315+129del,Likely benign,"criteria provided, single submitter",not provided,11,5226447,TC,T,Deletion,2494294522
+2088018,NM_000518.5(HBB):c.315+128G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226449,C,G,single nucleotide variant,2494294524
+2088054,NM_000518.5(HBB):c.111T>G (p.Pro37=),Likely benign,"criteria provided, single submitter",not provided,11,5226781,A,C,single nucleotide variant,1190114447
+2091561,NM_000518.5(HBB):c.315+423C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226154,G,A,single nucleotide variant,2494293724
+2103192,NM_000518.5(HBB):c.92+10A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226920,T,G,single nucleotide variant,2494296610
+2103983,NM_000518.5(HBB):c.315+342G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226235,C,A,single nucleotide variant,1847543045
+2103994,NM_000518.5(HBB):c.315+217C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226360,G,T,single nucleotide variant,1351997166
+2103997,NM_000518.5(HBB):c.315+315A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226262,T,G,single nucleotide variant,2494293946
+2107558,NM_000518.5(HBB):c.315+257T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226320,A,T,single nucleotide variant,952327061
+2107559,NM_000518.5(HBB):c.315+237T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226340,A,G,single nucleotide variant,1265141258
+2107602,NM_000518.5(HBB):c.316-48del,Likely benign,"criteria provided, single submitter",not provided,11,5225773,TA,T,Deletion,2494292701
+2107603,NM_000518.5(HBB):c.316-49C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225775,G,C,single nucleotide variant,2133586488
+2107655,NM_000518.5(HBB):c.316-360C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226086,G,A,single nucleotide variant,1224999747
+2105568,NM_000518.5(HBB):c.315+352G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226225,C,T,single nucleotide variant,1470539687
+2107209,NM_000518.5(HBB):c.316-264A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225990,T,C,single nucleotide variant,2494293263
+2113784,NM_000518.5(HBB):c.315+366A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226211,T,C,single nucleotide variant,2494293840
+2116902,NM_000518.5(HBB):c.315+316C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226261,G,C,single nucleotide variant,1847543546
+2129208,NM_000518.5(HBB):c.315+375C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226202,G,T,single nucleotide variant,2494293818
+2119846,NM_000518.5(HBB):c.316-131A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225857,T,C,single nucleotide variant,2494292942
+2121900,NM_000518.5(HBB):c.316-393T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226119,A,G,single nucleotide variant,1847541061
+2124799,NM_000518.5(HBB):c.315+331A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226246,T,C,single nucleotide variant,1589891981
+2115831,NM_000518.5(HBB):c.92+65G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226865,C,A,single nucleotide variant,1170353179
+2124508,NM_000518.5(HBB):c.315+266A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226311,T,C,single nucleotide variant,1847544479
+2126175,NM_000518.5(HBB):c.315+351T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226226,A,T,single nucleotide variant,2494293861
+2127595,NM_000518.5(HBB):c.315+214del,Likely benign,"criteria provided, single submitter",not provided,11,5226362,AG,A,Deletion,2487889484
+2134337,NM_000518.5(HBB):c.315+164T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226413,A,G,single nucleotide variant,2494294434
+2134390,NM_000518.5(HBB):c.316-119A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225845,T,C,single nucleotide variant,2494292898
+2130510,NM_000518.5(HBB):c.315+45A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226532,T,G,single nucleotide variant,1352476647
+2133999,NM_000518.5(HBB):c.316-78G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225804,C,T,single nucleotide variant,1847534308
+2135493,NM_000518.5(HBB):c.315+207T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226370,A,G,single nucleotide variant,1589892074
+2131711,NM_000518.5(HBB):c.316-308C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226034,G,T,single nucleotide variant,2494293413
+2133380,NM_000518.5(HBB):c.315+305A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226272,T,C,single nucleotide variant,1800971968
+2135317,NM_000518.5(HBB):c.315+308_315+309insG,Likely benign,"criteria provided, single submitter",not provided,11,5226268,G,GC,Insertion,2494293973
+2131064,NM_000518.5(HBB):c.316-216G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225942,C,G,single nucleotide variant,1847537665
+2501083,NM_000518.5(HBB):c.372C>G (p.Thr124=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225670,G,C,single nucleotide variant,780307221
+2573435,NM_000518.5(HBB):c.12G>A (p.Leu4=),Likely benign,"criteria provided, single submitter",not specified,11,5227010,C,T,single nucleotide variant,1589893645
+2577313,NM_000518.5(HBB):c.276G>T (p.Leu92=),Likely benign,"criteria provided, single submitter",not specified,11,5226616,C,A,single nucleotide variant,1589892429
+2697109,NM_000518.5(HBB):c.315+256G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226321,C,T,single nucleotide variant,1589892031
+2698601,NM_000518.5(HBB):c.316-376A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226102,T,A,single nucleotide variant,2494293578
+2702236,NM_000518.5(HBB):c.316-309T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226035,A,G,single nucleotide variant,2494293417
+2705593,NM_000518.5(HBB):c.316-199G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225925,C,T,single nucleotide variant,2494293129
+2700062,NM_000518.5(HBB):c.316-38del,Benign,"criteria provided, single submitter",not provided,11,5225763,CA,C,Deletion,2494292681
+2696164,NM_000518.5(HBB):c.315+111_315+112insATTCTA,Likely benign,"criteria provided, single submitter",not provided,11,5226465,T,TTTAGAA,Insertion,2494294559
+2696165,NM_000518.5(HBB):c.315+110G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226467,C,G,single nucleotide variant,946957516
+2702918,NM_000518.5(HBB):c.316-87T>G,Likely benign,"criteria provided, single submitter",not provided,11,5225813,A,C,single nucleotide variant,2494292798
+2704864,NM_000518.5(HBB):c.316-149T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225875,A,G,single nucleotide variant,2494292979
+2694305,NM_000518.5(HBB):c.315+259dup,Likely benign,"criteria provided, single submitter",not provided,11,5226317,T,TA,Duplication,1847544650
+2697598,NM_000518.5(HBB):c.316-417G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226143,C,A,single nucleotide variant,2133587015
+2704284,NM_000518.5(HBB):c.315+37T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226540,A,T,single nucleotide variant,2494294816
+2704522,NM_000518.5(HBB):c.316-102C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225828,G,A,single nucleotide variant,1468940510
+2707027,NM_000518.5(HBB):c.315+333T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226244,A,T,single nucleotide variant,2494293907
+2708823,NM_000518.5(HBB):c.315+60T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226517,A,G,single nucleotide variant,2494294762
+2713508,NM_000518.5(HBB):c.315+105C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226472,G,C,single nucleotide variant,2494294577
+2706270,NM_000518.5(HBB):c.316-176T>G,Likely benign,"criteria provided, single submitter",not provided,11,5225902,A,C,single nucleotide variant,2133586691
+2709663,NM_000518.5(HBB):c.315+243A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226334,T,A,single nucleotide variant,1847544894
+2727125,NM_000518.5(HBB):c.92+43A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226887,T,G,single nucleotide variant,1847577080
+2731683,NM_000518.5(HBB):c.315+338T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226239,A,C,single nucleotide variant,2494293894
+2736437,NM_000518.5(HBB):c.315+273A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226304,T,C,single nucleotide variant,1385612569
+2736477,NM_000518.5(HBB):c.315+204C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226373,G,T,single nucleotide variant,1847545951
+2744953,NM_000518.5(HBB):c.316-269C>A,Likely benign,"criteria provided, single submitter",not provided,11,5225995,G,T,single nucleotide variant,2494293269
+2733487,NM_000518.5(HBB):c.315+375C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226202,G,A,single nucleotide variant,2494293818
+2739204,NM_000518.5(HBB):c.316-405del,Likely benign,"criteria provided, single submitter",not provided,11,5226130,CA,C,Deletion,1174805237
+2742787,NM_000518.5(HBB):c.316-213A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225939,T,G,single nucleotide variant,2494293154
+2742971,NM_000518.5(HBB):c.316-24A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225750,T,C,single nucleotide variant,990408905
+2743033,NM_000518.5(HBB):c.237G>T (p.Leu79=),Likely benign,"criteria provided, single submitter",not provided,11,5226655,C,A,single nucleotide variant,1847555518
+2747568,NM_000518.5(HBB):c.316-335C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226061,G,T,single nucleotide variant,1847539707
+2740244,NM_000518.5(HBB):c.316-191C>A,Likely benign,"criteria provided, single submitter",not provided,11,5225917,G,T,single nucleotide variant,2494293111
+2747182,NM_000518.5(HBB):c.316-13C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225739,G,A,single nucleotide variant,2494292604
+2760286,NM_000518.5(HBB):c.315+222C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226355,G,T,single nucleotide variant,1281453619
+2751019,NM_000518.5(HBB):c.315+19T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226558,A,C,single nucleotide variant,1363813923
+2752834,NM_000518.5(HBB):c.348C>T (p.Ala116=),Likely benign,"criteria provided, single submitter",not provided,11,5225694,G,A,single nucleotide variant,1221319092
+2757925,NM_000518.5(HBB):c.315+164T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226413,A,C,single nucleotide variant,2494294434
+2752305,NM_000518.5(HBB):c.315+63T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226514,A,C,single nucleotide variant,1375672361
+2754240,NM_000518.5(HBB):c.316-222A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225948,T,C,single nucleotide variant,2494293183
+2755775,NM_000518.5(HBB):c.316-348T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226074,A,T,single nucleotide variant,1340330454
+2760823,NM_000518.5(HBB):c.316-390A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226116,T,C,single nucleotide variant,2494293613
+2757119,NM_000518.5(HBB):c.316-411G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226137,C,A,single nucleotide variant,113426432
+2763854,NM_000518.5(HBB):c.315+199_315+201del,Likely benign,"criteria provided, single submitter",not provided,11,5226375,AAGC,A,Deletion,2494294276
+2765807,NM_000518.5(HBB):c.315+238A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226339,T,C,single nucleotide variant,2494294142
+2769315,NM_000518.5(HBB):c.315+104A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226473,T,A,single nucleotide variant,2494294581
+2767052,NM_000518.5(HBB):c.316-170T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225896,A,G,single nucleotide variant,1328502288
+2767167,NM_000518.5(HBB):c.315+122C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226455,G,T,single nucleotide variant,2494294532
+2771547,NM_000518.5(HBB):c.315+170T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226407,A,C,single nucleotide variant,2494294339
+2770110,NM_000518.5(HBB):c.213C>T (p.Ala71=),Likely benign,"criteria provided, single submitter",not provided,11,5226679,G,A,single nucleotide variant,2494295652
+2762750,NM_000518.5(HBB):c.93-19T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226818,A,G,single nucleotide variant,1451581925
+2771206,NM_000518.5(HBB):c.282T>C (p.Cys94=),Likely benign,"criteria provided, single submitter",not provided,11,5226610,A,G,single nucleotide variant,1847552343
+2775957,NM_000518.5(HBB):c.316-182T>G,Likely benign,"criteria provided, single submitter",not provided,11,5225908,A,C,single nucleotide variant,1284665762
+2783192,NM_000518.5(HBB):c.93-5C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226804,G,C,single nucleotide variant,1205031264
+2782584,NM_000518.5(HBB):c.315+284A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226293,T,G,single nucleotide variant,1847544215
+2778654,NM_000518.5(HBB):c.315+18T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided,11,5226559,A,G,single nucleotide variant,1847549131
+2782072,NM_000518.5(HBB):c.315+351T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226226,A,G,single nucleotide variant,2494293861
+2787390,NM_000518.5(HBB):c.315+89A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226488,T,A,single nucleotide variant,996887983
+2778374,NM_000518.5(HBB):c.315+406G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226171,C,T,single nucleotide variant,1233384303
+2793504,NM_000518.5(HBB):c.315+166T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226411,A,T,single nucleotide variant,2494294427
+2795099,NM_000518.5(HBB):c.315+157T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226420,A,G,single nucleotide variant,2494294458
+2802003,NM_000518.5(HBB):c.316-127C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225853,G,A,single nucleotide variant,2494292928
+2789363,NM_000518.5(HBB):c.316-365T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226091,A,G,single nucleotide variant,1847540470
+2789444,NM_000518.5(HBB):c.316-9C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225735,G,A,single nucleotide variant,1847532493
+2789491,NM_000518.5(HBB):c.315+371T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226206,A,G,single nucleotide variant,964137770
+2798327,NM_000518.5(HBB):c.315+173C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226404,G,T,single nucleotide variant,1847546498
+2790939,NM_000518.5(HBB):c.315+138G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226439,C,T,single nucleotide variant,2494294507
+2790355,NM_000518.5(HBB):c.315+221G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226356,C,A,single nucleotide variant,753003330
+2791980,NM_000518.5(HBB):c.93-41A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226840,T,C,single nucleotide variant,1847575815
+2802367,NM_000518.5(HBB):c.316-361G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226087,C,T,single nucleotide variant,2133586926
+2802497,NM_000518.5(HBB):c.315+204del,Likely benign,"criteria provided, single submitter",not provided,11,5226372,AG,A,Deletion,2494294253
+2803917,NM_000518.5(HBB):c.316-72G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225798,C,T,single nucleotide variant,2494292733
+2807382,NM_000518.5(HBB):c.315+269G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226308,C,T,single nucleotide variant,1315571211
+2810430,NM_000518.5(HBB):c.315+169A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226408,T,G,single nucleotide variant,915743646
+2812292,NM_000518.5(HBB):c.315+415T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226162,A,G,single nucleotide variant,2494293734
+2815819,NM_000518.5(HBB):c.316-50G>C,Likely benign,"criteria provided, single submitter",not provided,11,5225776,C,G,single nucleotide variant,762957058
+2804976,NM_000518.5(HBB):c.315+214C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226363,G,A,single nucleotide variant,1231133779
+2806723,NM_000518.5(HBB):c.315+270G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226307,C,T,single nucleotide variant,1847544328
+2808336,NM_000518.5(HBB):c.315+163C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226414,G,A,single nucleotide variant,2494294440
+2808627,NM_000518.5(HBB):c.198G>A (p.Lys66=),Likely benign,"criteria provided, single submitter",not provided,11,5226694,C,T,single nucleotide variant,35747961
+2811839,NM_000518.5(HBB):c.315+347T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226230,A,G,single nucleotide variant,2494293877
+2811923,NM_000518.5(HBB):c.93-62A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226861,T,A,single nucleotide variant,2494296421
+2808048,NM_000518.5(HBB):c.315+107G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226470,C,T,single nucleotide variant,2494294572
+2811518,NM_000518.5(HBB):c.316-27T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225753,A,G,single nucleotide variant,1280140490
+2813160,NM_000518.5(HBB):c.316-346A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226072,T,G,single nucleotide variant,2494293531
+2812701,NM_000518.5(HBB):c.93-9C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226808,G,C,single nucleotide variant,768952155
+2816145,NM_000518.5(HBB):c.93-36C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226835,G,A,single nucleotide variant,199587927
+2817359,NM_000518.5(HBB):c.93-28G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226827,C,A,single nucleotide variant,1564875652
+2819196,NM_000518.5(HBB):c.315+323C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226254,G,A,single nucleotide variant,2494293932
+2824238,NM_000518.5(HBB):c.315+264C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226313,G,A,single nucleotide variant,187507944
+2824341,NM_000518.5(HBB):c.316-155T>G,Likely benign,"criteria provided, single submitter",not provided,11,5225881,A,C,single nucleotide variant,1410738431
+2827665,NM_000518.5(HBB):c.315+109C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226468,G,C,single nucleotide variant,543925348
+2818822,NM_000518.5(HBB):c.315+74T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226503,A,T,single nucleotide variant,7480526
+2825370,NM_000518.5(HBB):c.93-27C>G,Likely benign,"criteria provided, single submitter",not provided,11,5226826,G,C,single nucleotide variant,376272324
+2825403,NM_000518.5(HBB):c.93-9dup,Likely benign,"criteria provided, single submitter",not provided,11,5226807,T,TG,Duplication,752631303
+2828894,NM_000518.5(HBB):c.265C>T (p.Leu89=),Likely benign,"criteria provided, single submitter",not provided,11,5226627,G,A,single nucleotide variant,34672591
+2829137,NM_000518.5(HBB):c.315+188_315+191del,Likely benign,"criteria provided, single submitter",not provided,11,5226385,TAAAC,T,Deletion,1240317854
+2816740,NM_000518.5(HBB):c.315+140A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226437,T,A,single nucleotide variant,1847546876
+2818393,NM_000518.5(HBB):c.316-389C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226115,G,T,single nucleotide variant,2133586972
+2821601,NM_000518.5(HBB):c.315+174A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226403,T,A,single nucleotide variant,2133587440
+2821618,NM_000518.5(HBB):c.147G>C (p.Leu49=),Likely benign,"criteria provided, single submitter",not provided,11,5226745,C,G,single nucleotide variant,750901840
+2823430,NM_000518.5(HBB):c.315+23G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226554,C,T,single nucleotide variant,1320802438
+2825157,NM_000518.5(HBB):c.316-142A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225868,T,C,single nucleotide variant,1461634734
+2826978,NM_000518.5(HBB):c.316-392G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226118,C,T,single nucleotide variant,1429457015
+2817790,NM_000518.5(HBB):c.315+144T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226433,A,C,single nucleotide variant,1392181924
+2817876,NM_000518.5(HBB):c.315+409A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226168,T,C,single nucleotide variant,2494293748
+2823108,NM_000518.5(HBB):c.316-394G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226120,C,G,single nucleotide variant,1297920360
+2826637,NM_000518.5(HBB):c.316-24A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225750,T,G,single nucleotide variant,990408905
+2828044,NM_000518.5(HBB):c.315+392T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226185,A,G,single nucleotide variant,2494293778
+2829859,NM_000518.5(HBB):c.315+372A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226205,T,G,single nucleotide variant,2494293828
+2829888,NM_000518.5(HBB):c.315+325T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226252,A,T,single nucleotide variant,537557714
+2829919,NM_000518.5(HBB):c.315+124G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226453,C,G,single nucleotide variant,1175432125
+2830937,NM_000518.5(HBB):c.316-122A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225848,T,A,single nucleotide variant,533807852
+2831007,NM_000518.5(HBB):c.315+226T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226351,A,T,single nucleotide variant,2494294170
+2832734,NM_000518.5(HBB):c.316-144T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225870,A,T,single nucleotide variant,2494292966
+2830691,NM_000518.5(HBB):c.316-118G>T,Likely benign,"criteria provided, single submitter",not provided,11,5225844,C,A,single nucleotide variant,2494292896
+2837304,NM_000518.5(HBB):c.316-60C>G,Likely benign,"criteria provided, single submitter",not provided,11,5225786,G,C,single nucleotide variant,1847533961
+2830420,NM_000518.5(HBB):c.316-117C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225843,G,A,single nucleotide variant,2494292888
+2833520,NM_000518.5(HBB):c.316-248T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225974,A,G,single nucleotide variant,2494293228
+2842293,NM_000518.5(HBB):c.315+96A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226481,T,C,single nucleotide variant,2494294666
+2831713,NM_000518.5(HBB):c.316-119A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225845,T,G,single nucleotide variant,2494292898
+2838569,NM_000518.5(HBB):c.315+164del,Likely benign,"criteria provided, single submitter",not provided,11,5226412,CA,C,Deletion,2494294438
+2846440,NM_000518.5(HBB):c.315+296A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226281,T,C,single nucleotide variant,967646765
+2848166,NM_000518.5(HBB):c.315+294T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226283,A,C,single nucleotide variant,2494293998
+2849928,NM_000518.5(HBB):c.316-315dup,Benign,"criteria provided, single submitter",not provided,11,5226040,C,CA,Duplication,1337114930
+2852703,NM_000518.5(HBB):c.315+82_315+83del,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226493,CCT,C,Deletion,2494294686
+2856346,NM_000518.5(HBB):c.315+245G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226332,C,T,single nucleotide variant,2494294134
+2844469,NM_000518.5(HBB):c.354C>T (p.His118=),Likely benign,"criteria provided, single submitter",not provided,11,5225688,G,A,single nucleotide variant,1271256116
+2845945,NM_000518.5(HBB):c.315+356T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226221,A,G,single nucleotide variant,2494293857
+2847814,NM_000518.5(HBB):c.315+219C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226358,G,A,single nucleotide variant,1270522548
+2849566,NM_000518.5(HBB):c.316-14T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225740,A,G,single nucleotide variant,35703285
+2851326,NM_000518.5(HBB):c.315+324C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226253,G,A,single nucleotide variant,1428270127
+2852384,NM_000518.5(HBB):c.316-308C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226034,G,A,single nucleotide variant,2494293413
+2854276,NM_000518.5(HBB):c.195C>T (p.Gly65=),Likely benign,"criteria provided, single submitter",not provided,11,5226697,G,A,single nucleotide variant,2133588365
+2856031,NM_000518.5(HBB):c.315+251A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226326,T,G,single nucleotide variant,2494294121
+2847426,NM_000518.5(HBB):c.315+262A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226315,T,C,single nucleotide variant,2494294076
+2857197,NM_000518.5(HBB):c.315+385dup,Likely benign,"criteria provided, single submitter",not provided,11,5226191,T,TA,Duplication,2494293793
+2845263,NM_000518.5(HBB):c.315+90G>T,Likely benign,"criteria provided, single submitter",not provided,11,5226487,C,A,single nucleotide variant,1847547444
+2845297,NM_000518.5(HBB):c.315+204_315+206del,Likely benign,"criteria provided, single submitter",not provided,11,5226370,AAAG,A,Deletion,2494294243
+2862763,NM_000518.5(HBB):c.315+411A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226166,T,C,single nucleotide variant,2494293744
+2867760,NM_000518.5(HBB):c.84C>A (p.Ala28=),Likely benign,"criteria provided, single submitter",not provided,11,5226938,G,T,single nucleotide variant,748296717
+2860725,NM_000518.5(HBB):c.267G>A (p.Leu89=),Likely benign,"criteria provided, single submitter",not provided,11,5226625,C,T,single nucleotide variant,11549405
+2862258,NM_000518.5(HBB):c.316-284C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226010,G,A,single nucleotide variant,1373924860
+2860247,NM_000518.5(HBB):c.315+273A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226304,T,A,single nucleotide variant,1385612569
+2862032,NM_000518.5(HBB):c.316-128G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225854,C,T,single nucleotide variant,1291160651
+2875229,NM_000518.5(HBB):c.315+105C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226472,G,T,single nucleotide variant,2494294577
+2877060,NM_000518.5(HBB):c.92+25G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226905,C,T,single nucleotide variant,375739101
+2878634,NM_000518.5(HBB):c.93-55G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226854,C,G,single nucleotide variant,1186575711
+2873169,NM_000518.5(HBB):c.315+239C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226338,G,A,single nucleotide variant,985479299
+2873194,NM_000518.5(HBB):c.339T>C (p.Cys113=),Likely benign,"criteria provided, single submitter",not provided,11,5225703,A,G,single nucleotide variant,33930977
+2876382,NM_000518.5(HBB):c.316-357T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226083,A,C,single nucleotide variant,1250495620
+2875907,NM_000518.5(HBB):c.316-33del,Likely benign,"criteria provided, single submitter",not provided,11,5225758,AT,A,Deletion,2494292669
+2876055,NM_000518.5(HBB):c.315+406G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226171,C,G,single nucleotide variant,1233384303
+2877740,NM_000518.5(HBB):c.316-191C>T,Likely benign,"criteria provided, single submitter",not provided,11,5225917,G,A,single nucleotide variant,2494293111
+2877762,NM_000518.5(HBB):c.315+167T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226410,A,G,single nucleotide variant,2494294424
+2877828,NM_000518.5(HBB):c.316-51A>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225777,T,G,single nucleotide variant,2494292707
+2901561,NM_000518.5(HBB):c.171C>A (p.Gly57=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226721,G,T,single nucleotide variant,193922551
+2959873,NM_000518.5(HBB):c.315+361T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226216,A,C,single nucleotide variant,1847542763
+2955337,NM_000518.5(HBB):c.316-412A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226138,T,C,single nucleotide variant,1847541674
+2962205,NM_000518.5(HBB):c.315+369C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226208,G,A,single nucleotide variant,2494293832
+3019267,NM_000518.5(HBB):c.316-259A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225985,T,C,single nucleotide variant,2494293252
+3627289,NM_000518.5(HBB):c.207C>A (p.Leu69=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226685,G,T,single nucleotide variant,-1
+3624952,NM_000518.5(HBB):c.316-425A>C,Likely benign,"criteria provided, single submitter",not provided,11,5226151,T,G,single nucleotide variant,-1
+3633051,NM_000518.5(HBB):c.315+203T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226374,A,C,single nucleotide variant,-1
+3638091,NM_000518.5(HBB):c.315+370A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226207,T,C,single nucleotide variant,-1
+3638132,NM_000518.5(HBB):c.316-180C>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225906,G,T,single nucleotide variant,-1
+3642561,NM_000518.5(HBB):c.315+13G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226564,C,G,single nucleotide variant,-1
+3637486,NM_000518.5(HBB):c.316-97T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225823,A,G,single nucleotide variant,-1
+3639424,NM_000518.5(HBB):c.316-193A>C,Likely benign,"criteria provided, single submitter",not provided,11,5225919,T,G,single nucleotide variant,-1
+3638824,NM_000518.5(HBB):c.315+297C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226280,G,A,single nucleotide variant,-1
+3633170,NM_000518.5(HBB):c.315+328T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226249,A,G,single nucleotide variant,-1
+3638340,NM_000518.5(HBB):c.316-136T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225862,A,G,single nucleotide variant,-1
+3645123,NM_000518.5(HBB):c.186G>A (p.Lys62=),Likely benign,"criteria provided, single submitter",not provided,11,5226706,C,T,single nucleotide variant,-1
+3668877,NM_000518.5(HBB):c.315+354_315+357del,Likely benign,"criteria provided, single submitter",not provided,11,5226219,TAAGC,T,Deletion,-1
+3672948,NM_000518.5(HBB):c.315+407A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226170,T,C,single nucleotide variant,-1
+3693356,NM_000518.5(HBB):c.316-372A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226098,T,C,single nucleotide variant,-1
+3701912,NM_000518.5(HBB):c.315+71G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226506,C,G,single nucleotide variant,-1
+3910008,NM_000518.5(HBB):c.315+108A>G,Likely benign,"criteria provided, single submitter",beta Thalassemia,11,5226469,T,C,single nucleotide variant,-1
+3910009,NM_000518.5(HBB):c.316-151A>G,Likely benign,"criteria provided, single submitter",beta Thalassemia,11,5225877,T,C,single nucleotide variant,-1
+3910010,NM_000518.5(HBB):c.189T>C (p.Ala63=),Benign,"criteria provided, single submitter",beta Thalassemia,11,5226703,A,G,single nucleotide variant,770878031
+4280318,NM_000518.5(HBB):c.315+312delinsAAAAAACTTAACTTAACTTAAAAA,Likely benign,no assertion criteria provided,Beta-thalassemia HBB/LCRB,11,5226265,A,TTTTTAAGTTAAGTTAAGTTTTTT,Indel,-1
+4525835,NM_000518.5(HBB):c.9T>G (p.His3Gln),Likely benign,"criteria provided, single submitter",not specified,11,5227013,A,C,single nucleotide variant,-1
+4535916,NM_000518.5(HBB):c.316-147A>G,Likely benign,"criteria provided, single submitter",not specified,11,5225873,T,C,single nucleotide variant,-1
+4685642,NM_000518.5(HBB):c.233A>T (p.His78Leu),Likely benign,"criteria provided, single submitter",not provided,11,5226659,T,A,single nucleotide variant,-1
+4692970,NM_000518.5(HBB):c.316-279T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226005,A,G,single nucleotide variant,-1
+4695393,NM_000518.5(HBB):c.315+396del,Likely benign,"criteria provided, single submitter",not provided,11,5226180,AT,A,Deletion,-1
+4734636,NM_000518.5(HBB):c.315+57A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226520,T,C,single nucleotide variant,-1
+4734723,NM_000518.5(HBB):c.316-420T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226146,A,C,single nucleotide variant,-1
+4729396,NM_000518.5(HBB):c.315+289T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226288,A,G,single nucleotide variant,-1
+4735712,NM_000518.5(HBB):c.315+241T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226336,A,G,single nucleotide variant,-1
+4753219,NM_000518.5(HBB):c.345G>A (p.Leu115=),Likely benign,"criteria provided, single submitter",not provided,11,5225697,C,T,single nucleotide variant,-1
+4766669,NM_000518.5(HBB):c.315+253A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226324,T,C,single nucleotide variant,-1
+4771045,NM_000518.5(HBB):c.93-43G>C,Likely benign,"criteria provided, single submitter",not provided,11,5226842,C,G,single nucleotide variant,-1
+4798543,NM_000518.5(HBB):c.316-4A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225730,T,C,single nucleotide variant,-1
+4848053,NM_000518.5(HBB):c.93-11C>T,Likely benign,"criteria provided, single submitter",not specified,11,5226810,G,A,single nucleotide variant,-1
