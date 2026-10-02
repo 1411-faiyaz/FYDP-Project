@@ -24,7 +24,7 @@ variation_id,name,clinical_significance,review_status,phenotype,chromosome,posit
 36318,NM_000518.5(HBB):c.316-37G>T,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225763,C,A,single nucleotide variant,193922559
 36320,NM_000518.5(HBB):c.316-70C>G,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",beta Thalassemia|not provided|not specified,11,5225796,G,C,single nucleotide variant,193922560
 36329,NM_000518.5(HBB):c.432C>T (p.His144=),Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|beta Thalassemia|Inborn genetic diseases,11,5225610,G,A,single nucleotide variant,36020563
-193106,NM_000518.5(HBB):c.9T>C (p.His3=),Benign,"criteria provided, multiple submitters, no conflicts",not specified|Hb SS disease|Fetal hemoglobin quantitative trait locus 1|beta Thalassemia|Hemoglobin E|not provided|9 conditions|Inborn genetic diseases,11,5227013,A,G,single nucleotide variant,713040
+193106,NM_000518.5(HBB):c.9T>C (p.His3=),Benign,"criteria provided, multiple submitters, no conflicts",not specified|Fetal hemoglobin quantitative trait locus 1|Hb SS disease|beta Thalassemia|Hemoglobin E|not provided|Inborn genetic diseases|9 conditions,11,5227013,A,G,single nucleotide variant,713040
 256346,NM_000518.5(HBB):c.316-146T>C,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225872,A,G,single nucleotide variant,35328027
 256347,NM_000518.5(HBB):c.316-238C>T,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|beta Thalassemia|not provided,11,5225964,G,A,single nucleotide variant,558554234
 256345,NM_000518.5(HBB):c.315+16G>C,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|beta Thalassemia|not provided,11,5226561,C,G,single nucleotide variant,10768683
@@ -64,7 +64,7 @@ variation_id,name,clinical_significance,review_status,phenotype,chromosome,posit
 695384,NM_000518.5(HBB):c.315+380T>C,Benign,"criteria provided, single submitter",not provided,11,5226197,A,G,single nucleotide variant,190369729
 695498,NM_000518.5(HBB):c.315+180T>C,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226397,A,G,single nucleotide variant,529931134
 702712,NM_000518.5(HBB):c.315+408T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226169,A,G,single nucleotide variant,1323342312
-707768,NM_000518.5(HBB):c.315+220C>T,Benign,"criteria provided, single submitter",not provided,11,5226357,G,A,single nucleotide variant,113152027
+707768,NM_000518.5(HBB):c.315+220C>T,Benign/Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226357,G,A,single nucleotide variant,113152027
 703455,NM_000518.5(HBB):c.315+171A>G,Likely benign,"criteria provided, single submitter",not provided,11,5226406,T,C,single nucleotide variant,996301151
 706923,NM_000518.5(HBB):c.315+109C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226468,G,A,single nucleotide variant,543925348
 748718,NM_000518.5(HBB):c.90C>A (p.Gly30=),Likely benign,"criteria provided, single submitter",not provided,11,5226932,G,T,single nucleotide variant,35578002
@@ -94,7 +94,7 @@ variation_id,name,clinical_significance,review_status,phenotype,chromosome,posit
 755510,NM_000518.5(HBB):c.316-323T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226049,A,G,single nucleotide variant,1589891857
 766475,NM_000518.5(HBB):c.316-368T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226094,A,C,single nucleotide variant,1589891884
 763829,NM_000518.5(HBB):c.315+308del,Likely benign,"criteria provided, single submitter",not provided,11,5226268,GT,G,Deletion,1020110937
-763631,NM_000518.5(HBB):c.315+221G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226356,C,T,single nucleotide variant,753003330
+763631,NM_000518.5(HBB):c.315+221G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226356,C,T,single nucleotide variant,753003330
 753521,NM_000518.5(HBB):c.315+204_315+208del,Likely benign,"criteria provided, single submitter",not provided,11,5226368,AAAAAG,A,Deletion,892829819
 755397,NM_000518.5(HBB):c.315+34C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226543,G,A,single nucleotide variant,759795721
 774507,NM_000518.5(HBB):c.316-381G>A,Likely benign,"criteria provided, single submitter",not provided,11,5226107,C,T,single nucleotide variant,1045462228
@@ -139,7 +139,6 @@ variation_id,name,clinical_significance,review_status,phenotype,chromosome,posit
 929230,NM_000518.5(HBB):c.315+9A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5226568,T,C,single nucleotide variant,1277597344
 933190,NM_000518.5(HBB):c.21G>A (p.Glu7=),Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5227001,C,T,single nucleotide variant,1589893600
 981076,NM_000518.5(HBB):c.316-99del,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided,11,5225824,GA,G,Deletion,1257175417
-981074,NM_000518.5(HBB):c.316-198G>A,Likely benign,"criteria provided, multiple submitters, no conflicts",not specified|not provided|HBB-related disorder,11,5225924,C,T,single nucleotide variant,547258651
 991115,NM_000518.5(HBB):c.387T>A (p.Ala129=),Likely benign,"criteria provided, single submitter",beta Thalassemia|not provided,11,5225655,A,T,single nucleotide variant,1248780802
 994010,NM_000518.5(HBB):c.316-90A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225816,T,C,single nucleotide variant,63750433
 995800,NM_000518.5(HBB):c.373C>A (p.Pro125Thr),Benign,no assertion criteria provided,beta Thalassemia,11,5225669,G,T,single nucleotide variant,35461710
@@ -152,7 +151,7 @@ variation_id,name,clinical_significance,review_status,phenotype,chromosome,posit
 1083998,NM_000518.5(HBB):c.316-219_316-218del,Likely benign,"criteria provided, single submitter",not provided,11,5225943,ACT,A,Deletion,2133586757
 1091288,NM_000518.5(HBB):c.316-244T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225970,A,T,single nucleotide variant,1847537980
 1095434,NM_000518.5(HBB):c.316-261A>T,Likely benign,"criteria provided, single submitter",not provided,11,5225987,T,A,single nucleotide variant,2133586811
-1095205,NM_000518.5(HBB):c.316-265A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225991,T,C,single nucleotide variant,2133586814
+1095205,NM_000518.5(HBB):c.316-265A>G,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225991,T,C,single nucleotide variant,2133586814
 1090894,NM_000518.5(HBB):c.316-315del,Likely benign,"criteria provided, single submitter",not provided,11,5226040,CA,C,Deletion,1337114930
 1092862,NM_000518.5(HBB):c.316-337T>G,Likely benign,"criteria provided, single submitter",not provided,11,5226063,A,C,single nucleotide variant,2133586900
 1089575,NM_000518.5(HBB):c.316-356T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226082,A,G,single nucleotide variant,1847540166
@@ -243,8 +242,8 @@ variation_id,name,clinical_significance,review_status,phenotype,chromosome,posit
 1106731,NM_000518.5(HBB):c.92+40T>A,Likely benign,"criteria provided, single submitter",not provided,11,5226890,A,T,single nucleotide variant,375672426
 1118834,NM_000518.5(HBB):c.92+26T>C,Likely benign,"criteria provided, single submitter",not provided,11,5226904,A,G,single nucleotide variant,1035809053
 1127267,NM_000518.5(HBB):c.*34G>A,Likely benign,"criteria provided, single submitter",not provided,11,5225564,C,T,single nucleotide variant,200399660
-1121500,NM_000518.5(HBB):c.426G>T (p.Leu142=),Likely benign,"criteria provided, single submitter",not provided,11,5225616,C,A,single nucleotide variant,1268853687
-1120940,NM_000518.5(HBB):c.363A>G (p.Lys121=),Likely benign,"criteria provided, single submitter",not provided,11,5225679,T,C,single nucleotide variant,34726542
+1121500,NM_000518.5(HBB):c.426G>T (p.Leu142=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225616,C,A,single nucleotide variant,1268853687
+1120940,NM_000518.5(HBB):c.363A>G (p.Lys121=),Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5225679,T,C,single nucleotide variant,34726542
 1121225,NM_000518.5(HBB):c.316-11T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225737,A,G,single nucleotide variant,755236703
 1139577,NM_000518.5(HBB):c.316-66A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225792,T,C,single nucleotide variant,1589891683
 1133882,NM_000518.5(HBB):c.316-80T>C,Likely benign,"criteria provided, single submitter",not provided,11,5225806,A,G,single nucleotide variant,1157691054
@@ -314,7 +313,7 @@ variation_id,name,clinical_significance,review_status,phenotype,chromosome,posit
 1141382,NM_000518.5(HBB):c.316-223T>A,Likely benign,"criteria provided, single submitter",not provided,11,5225949,A,T,single nucleotide variant,2133586768
 1152502,NM_000518.5(HBB):c.316-224A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225950,T,C,single nucleotide variant,2133586771
 1153305,NM_000518.5(HBB):c.316-249A>G,Likely benign,"criteria provided, single submitter",not provided,11,5225975,T,C,single nucleotide variant,908372322
-1155055,NM_000518.5(HBB):c.316-278C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226004,G,A,single nucleotide variant,978207135
+1155055,NM_000518.5(HBB):c.316-278C>T,Likely benign,"criteria provided, multiple submitters, no conflicts",not provided|not specified,11,5226004,G,A,single nucleotide variant,978207135
 1148975,NM_000518.5(HBB):c.316-290C>A,Likely benign,"criteria provided, single submitter",not provided,11,5226016,G,T,single nucleotide variant,1847538764
 1143473,NM_000518.5(HBB):c.316-339C>T,Likely benign,"criteria provided, single submitter",not provided,11,5226065,G,A,single nucleotide variant,1322482679
 1156511,NM_000518.5(HBB):c.316-347A>T,Likely benign,"criteria provided, single submitter",not provided,11,5226073,T,A,single nucleotide variant,1847539942
